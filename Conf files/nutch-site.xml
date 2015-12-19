@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. protocol-interactiveselenium| -->
+
+<configuration>
+    
+   <property>
+        <name>plugin.includes</name>
+        <value>protocol-interactiveselenium|protocol-http|urlfilter-regex|parse-(tika|html)|index-(basic|anchor)|indexer-solr|scoring-similarity|urlnormalizer-(pass|regex|basic)</value>
+        <description>Regular expression naming plugin directory names to
+            include.  Any plugin not matching this expression is excluded.
+            In any case you need at least include the nutch-extensionpoints plugin. By
+            default Nutch includes crawling just HTML and plain text via HTTP,
+            and basic indexing and search plugins. In order to use HTTPS please enable
+            protocol-httpclient, but be aware of possible intermittent problems with the
+            underlying commons-httpclient library. Set parsefilter-naivebayes for classification based focused crawler.
+        </description>
+    </property>
+    <property>
+        <name>interactiveselenium.handlers</name>
+        <value>CrawlHandler,DefaultHandler</value>
+        <description></description>
+    </property>
+
+    <property>
+        <name>mapred.task.timeout</name>
+        <value>6000000</value>
+        <description></description>
+    </property>
+
+    <!-- Agent Name and Properties -->
+    <property>
+        <name>http.agent.name</name>
+        <value>Team33 CSCI572</value>
+        <description>HTTP 'User-Agent' request header. MUST NOT be empty -
+            please set this to a single word uniquely related to your organization.
+        </description>
+    </property>
+    
+    <property>
+        <name>http.agent.description</name>
+        <value>A Research Bot</value>
+        <description>Further description of our bot- this text is used in
+            the User-Agent header.  It appears in parenthesis after the agent name.
+        </description>
+    </property>
+    
+    <property>
+        <name>http.agent.url</name>
+        <value>http://sunset.usc.edu/classes/cs572_2015b</value>
+        <description>A URL to advertise in the User-Agent header.  This will
+            appear in parenthesis after the agent name. Custom dictates that this
+            should be a URL of a page explaining the purpose and behavior of this
+            crawler.
+        </description>
+    </property>
+    
+    <property>
+        <name>http.agent.email</name>
+        <value>gvshenoy@usc.edu</value>
+        <description>An email address to advertise in the HTTP 'From' request
+            header and User-Agent header. A good practice is to mangle this
+            address (e.g. 'info at example dot com') to avoid spamming.
+        </description>
+    </property>
+    
+    <property>
+        <name>http.agent.version</name>
+        <value>Nutch-1.11-SNAPSHOT</value>
+        <description>A version string to advertise in the User-Agent
+            header.</description>
+    </property>
+    
+    
+    <!-- Rotating Agent Name and Properties -->
+    <property>
+        <name>http.agent.rotate</name>
+        <value>true</value>
+        <description>
+            If true, instead of http.agent.name, alternating agent names are
+            chosen from a list provided via http.agent.rotate.file.
+        </description>
+    </property>
+    
+    <property>
+        <name>http.agent.rotate.file</name>
+        <value>agents.txt</value>
+        <description>
+            File containing alternative user agent names to be used instead of
+            http.agent.name on a rotating basis if http.agent.rotate is true.
+            Each line of the file should contain exactly one agent
+            specification including name, version, description, URL, etc.
+        </description>
+    </property>
+    
+    
+    <!-- Filtering and Normalizing while Updating CrawlDB -->
+    
+    <property>
+        <name>db.update.purge.404</name>
+        <value>true</value>
+        <description>If true, updatedb will add purge records with status DB_GONE
+            from the CrawlDB.
+        </description>
+    </property>
+    
+    <property>
+        <name>db.url.normalizers</name>
+        <value>true</value>
+        <description>Normalize urls when updating crawldb</description>
+    </property>
+    
+    <property>
+        <name>db.url.filters</name>
+        <value>true</value>
+        <description>Filter urls when updating crawldb</description>
+    </property>
+    
+    
+    <!--  Filtering and Normalizing while Generating Segments of Crawl DB-->
+    
+    <property>
+        <name>generate.update.crawldb</name>
+        <value>true</value>
+        <description>For highly-concurrent environments, where several
+            generate/fetch/update cycles may overlap, setting this to true ensures
+            that generate will create different fetchlists even without intervening
+            updatedb-s, at the cost of running an additional job to update CrawlDB.
+            If false, running generate twice without intervening
+            updatedb will generate identical fetchlists.</description>
+    </property>
+    
+    
+    
+    <!-- Increase the limit to get all the content -->
+    
+    <property>
+        <name>http.content.limit</name>
+        <value>-1</value>
+        <description>The length limit for downloaded content using the http://
+            protocol, in bytes. If this value is nonnegative (>=0), content longer
+            than it will be truncated; otherwise, no truncation at all. Do not
+            confuse this setting with the file.content.limit setting.
+        </description>
+    </property>
+    
+    
+    
+    <!-- Checking links again for filters -->
+    <property>
+        <name>http.enable.if.modified.since.header</name>
+        <value>false</value>
+        <description>Whether Nutch sends an HTTP If-Modified-Since header. It reduces
+            bandwidth when enabled by not downloading pages that respond with an HTTP
+            Not-Modified header. URL's that are not downloaded are not passed through
+            parse or indexing filters. If you regularly modify filters, you should force
+            Nutch to also download unmodified pages by disabling this feature.
+        </description>
+    </property>
+    
+    
+    <!-- Whitelisting the site for fetching -->
+    
+    <property>
+        <name>http.robot.rules.whitelist</name>
+        <value>www.4chan.org/k/, www.academy.com, www.accurateshooter.com, www.advanced-armanent.com, www.americanlisted.com, www.arguntrader.com, www.armslist.com, www.backpage.com, www.budsgunshop.com, www.buyusedguns.net, www.cabelas.com, www.cheaperthandirt.com, www.davidsonsinc.com, www.firearmlist.com, www.firearmslist.com, www.freeclassifieds.com, www.freegunclassifieds.com, www.freegunclaXssifieds.com, www.gandermountain.com, www.gunauction.com, www.gunbroker.com, www.gundeals.org, www.gunlistings.org, www.gunsamerica.com, www.gunsinternational.com, www.guntrader.com, www.hipointfirearmsforums.com, www.impactguns.com, www.iwanna.com, www.lionseek.com, www.midwestguntrader.com, www.nationalguntrader.com, www.nextechclassifieds.com/categories/sporting-goods/firearms, www.oodle.com, www.recycler.com, www.shooterswap.com, www.shooting.org, www.slickguns.com, www.wantaddigest.com, www.wikiarms.com/guns, www.abqjournal.com, www.alaskaslist.com, www.billingsthriftynickel.com, www.carolinabargaintrader.net, www.clasificadosphoenix.univision.com, www.classifiednc.com, www.classifieds.al.com, www.cologunmarket.com, www.comprayventadearms.com, www.dallasguns.com, www.elpasoguntrader.com, www.fhclassifieds.com, www.floridagunclassifieds.com, www.floridaguntrader.com, www.gowilkes.com, www.gunidaho.com, www.hawaiiguntrader.com, www.idahogunsforsale.com, www.iguntrade.com, www.jasonsguns.com, www.ksl.com, www.kyclassifieds.com, www.midutahradio.com/tradio, www.midwestgtrader.com, www.montanagunclassifieds.com, www.montanagunsforsale.com, www.mountaintrader.com, www.msguntrader.com, www.ncgunads.com, www.newmexicoguntrader.com, www.nextechclassifieds.com, www.sanjoseguntrader.com, www.tell-n-sell.com, www.tennesseegunexchange.com, www.theoutdoorstrader.com, www.tradesnsales.com, www.upstateguntrader.com, www.vci-classifieds.com, www.zidaho.com</value>
+        <description>Comma separated list of hostnames or IP addresses to ignore
+            robot rules parsing for. Use with care and only if you are explicitly
+            allowed by the site owner to ignore the site's robots.txt!
+        </description>
+    </property>
+    
+    
+    <!-- HTTP Properties to minmize Server Timeout Errors -->
+    
+    <property>
+        <name>http.timeout</name>
+        <value>20000</value>
+        <description>The default network timeout, in milliseconds.</description>
+    </property>
+    
+    <property>
+        <name>http.max.delays</name>
+        <value>1000</value>
+        <description>The number of times a thread will delay when trying to
+            fetch a page.  Each time it finds that a host is busy, it will wait
+            fetcher.server.delay.  After http.max.delays attepts, it will give
+            up on the page for now.</description>
+    </property>
+    <property>
+        <name>scoring.similarity.model.path</name>
+        <value>goldstandard.txt</value>
+    </property>
+    
+    
+    <property>
+        <name>scoring.similarity.stopword.file</name>
+        <value>stopwords.txt</value>
+    </property>
+
+    <!--  Increasing Number of threads to make make simultaneous Crawl possible by nutch-->
+    
+    <property>
+        <name>fetcher.threads.fetch</name>
+        <value>5</value>
+        <description>The number of FetcherThreads the fetcher should use.
+            This is also determines the maximum number of requests that are
+            made at once (each FetcherThread handles one connection). The total
+            number of threads running in distributed mode will be the number of
+            fetcher threads * number of nodes as fetcher has one map task per node.
+        </description>
+    </property>
+    
+    <property>
+        <name>fetcher.threads.per.queue</name>
+        <value>2</value>
+        <description>This number is the maximum number of threads that
+            should be allowed to access a queue at one time. Setting it to
+            a value > 1 will cause the Crawl-Delay value from robots.txt to
+            be ignored and the value of fetcher.server.min.delay to be used
+            as a delay between successive requests to the same server instead
+            of fetcher.server.delay.
+        </description>
+    </property>
+    
+
+</configuration>

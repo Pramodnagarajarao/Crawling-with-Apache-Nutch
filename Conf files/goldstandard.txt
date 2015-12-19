@@ -1,0 +1,82 @@
+gun
+fire
+shoot
+shooting
+gunshot
+rifle
+shot
+cannon
+carbine
+derringer
+equalizer
+firearm
+flintlock
+handgun
+howitzer
+kalashnikov
+machine gun
+magnum
+mortar
+musket
+piece
+pistol
+revolver
+shotgun
+six-shooter
+shooter
+starting gun
+stun gun
+submachine
+tommy gun
+uzi
+semiautomatic
+blunderbuss
+bazooka
+automatic
+air gun
+BB gun
+Gunpowder
+artillery
+cartridge
+back bore
+backbored barrel
+ammunition
+bandolier
+bandoleer
+ballistic
+bayonet
+bipod
+black powder
+blank
+bullet
+blowback
+bolt action
+bolt thrust
+bore snake
+boresight
+brass
+caliber
+calibre
+Casket
+magazine
+chamber
+collateral
+damage
+cordite
+hammer
+ballistics
+obturate
+obturation
+recoil
+rimfire
+sabot
+semi-wadcutter
+varmint
+yaw
+trigger
+colt 
+winchester
+beretta
+Remington
+Savage
+Guard

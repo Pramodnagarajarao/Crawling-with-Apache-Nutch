@@ -1,0 +1,11 @@
+Team33CSCI572_1.2 beast/Nutch-1.0 (agentspider; bt@mail.com)
+
+Abrave Spider v5.3 Robot 5 (http://robot.abrave.com)
+
+adidxbot/1.1 (+http://search.msn.com/msnbot.htm)
+
+Ant/Ant-Nutch-1.1 (Ant Nutch Crawler; http://www.ant.com; crawler@ant.com)
+
+Mozilla 4.0; MSIE 5.5; (SqwidgeBot b1 - http://www.sqwidge.com/bot/)
+
+mybot/Nutch-1.0 (mybot; http://mybot.com; mybot@mybot.com)

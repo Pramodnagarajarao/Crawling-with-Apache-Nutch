@@ -1,0 +1,155 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red28\green28\blue28;}
+\margl1440\margr1440\vieww25100\viewh13300\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\b\fs24 \cf0 CSCI 572 -
+\b0  In this document we have listed all the errors that had been faced during crawling in the first round. Also as mentioned in the assignment description we have listed about 100 URL's  for which we faced difficulty in fetching. \
+\
+
+\b List of errors:
+\b0 \
+\
+
+\b 1. HTTP errors \
+
+\b0 \
+a\'a0 HTTP error code=403 : Forbidden - Server is refusing to respond to the request.\
+b. HTTP error code=406 : Not acceptable. \
+c. HTTP error code=500 : Internal Server Error - This is returned when there was unexpected error condition encountered at server end.\
+d. HTTP error code=503 : The server is was unavailable (because it is overloaded or down for maintenance).\
+e. HTTP error code=520 : \cf2 \expnd0\expndtw0\kerning0
+Unknown Error\cf0 \kerning1\expnd0\expndtw0 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\b \cf0 2. Nutch failed to crawl urls due to the following issues mentioned below:
+\b0 \
+\
+1. java.net.SocketTimeoutException: Read timed out.\
+2. java.net.UnknownHostException: The host was not resolved by server and hence the issue.\
+3. java.net.ConnectException: The connection to server was not successful hence the issue.\
+4. java.net.ConnectException: Connection refused - The connection from crawler was refused by the server.\
+5. javax.net.ssl.SSLProtocolException: handshake alert:  unrecognized_name \
+6. javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target    \
+7. java.io.EOFException.\
+8. java.net.SocketTimeoutException: connect timed out\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+\cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 As TIKA and Tesseract is not installed many urls are not fetched because TIKA parser is not installed.\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\b \cf0 3. List of 100 URL's with issues faced:
+\b0 \
+\
+1. http://www.midwestguntrader.com/ failed with: Http code=500, url={\field{\*\fldinst{HYPERLINK "http://www.midwestguntrader.com/"}}{\fldrslt http://www.midwestguntrader.com/}}\
+2. http://www.ksl.com/jobs/listing/624663 failed with: Http code=500, url=http://www.ksl.com/jobs/listing/624663\
+3. http://www.theoutdoorstrader.com/members/ders.54375/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/ders.54375/"}}{\fldrslt http://www.theoutdoorstrader.com/members/ders.54375/}}\
+4. http://www.theoutdoorstrader.com/members/des365.3854/ failed with: Http code=403, url=http://www.theoutdoorstrader.com/members/des365.3854/ \
+5. http://www.theoutdoorstrader.com/members/designasaurus.47392/ failed with: Http code=403, url=http://www.theoutdoorstrader.com/members/designasaurus.47392/ \
+6. http://www.theoutdoorstrader.com/members/detour.55436/ failed with: Http code=403, url=http://www.theoutdoorstrader.com/members/detour.55436/ \
+7. http://www.theoutdoorstrader.com/members/devildog08.52252/ failed with: Http code=403, url=http://www.theoutdoorstrader.com/members/devildog08.52252/ \
+8. http://www.theoutdoorstrader.com/members/devildogexpert.1569/ failed with: Http code=403, url=http://www.theoutdoorstrader.com/members/devildogexpert.1569/ \
+9. http://www.theoutdoorstrader.com/members/devinator.18113/ failed with: Http code=403, url=http://www.theoutdoorstrader.com/members/devinator.18113/ \
+10. http://www.theoutdoorstrader.com/members/dharris.47153/ failed with: Http code=403, url=http://www.theoutdoorstrader.com/members/dharris.47153/ \
+11. http://www.theoutdoorstrader.com/members/dhepler.1395/ failed with: Http code=403, url=http://www.theoutdoorstrader.com/members/dhepler.1395/ \
+12. http://www.theoutdoorstrader.com/members/dhopkins.38345/ failed with: Http code=403, url=http://www.theoutdoorstrader.com/members/dhopkins.38345/ \
+13. http://www.theoutdoorstrader.com/members/dhsnke.11264/ failed with: Http code=403, url=http://www.theoutdoorstrader.com/members/dhsnke.11264/ \
+14. http://www.theoutdoorstrader.com/members/diacnik.5730/ failed with: Http code=403, url=http://www.theoutdoorstrader.com/members/diacnik.5730/ \
+15. http://www.theoutdoorstrader.com/members/dial1911.6046/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/dial1911.6046/"}}{\fldrslt http://www.theoutdoorstrader.com/members/dial1911.6046/}}\
+16. http://www.slickguns.com/product/sierra-22-caliber-52-gr-224-hpbt-matchking-100-rnds-2199 failed with: java.net.SocketTimeoutException: Read timed out \
+17. http://www.slickguns.com/users/glock-fan failed with: Http code=403, url=http://www.slickguns.com/users/glock-fan  \
+18. http://www.slickguns.com/users/reviewer failed with: Http code=403, url=http://www.slickguns.com/users/reviewer  \
+19. http://www.smallcaliber.com/ failed with: java.net.UnknownHostException: www.smallcaliber.com  \
+20. http://www.smallcaliber.com/html/tactical20.html failed with: java.net.UnknownHostException: www.smallcaliber.com  \
+21. http://www.south-west-casting.com/index.php failed with: java.net.UnknownHostException: www.south-west-casting.com   \
+22. http://www.southwestguntrader.com/ failed with: Http code=500, url=http://www.southwestguntrader.com/           \
+23. http://www.spindlerarms.com/ failed with: java.net.UnknownHostException: www.spindlerarms.com          \
+24. http://www.sportsmanswarehouse.com/sportsmans/Berger-Bullets/category/cat128001 failed with: java.net.SocketTimeoutException: Read timed out  \
+25. http://www.styxrivershootingcenter.com/ failed with: java.net.UnknownHostException: www.styxrivershootingcenter.com          \
+26. http://www.tcandsc.org/ failed with: java.net.UnknownHostException: www.tcandsc.org            \
+27. http://www.tcountytactical.com/ failed with: java.net.UnknownHostException: www.tcountytactical.com            \
+28. http://www.tennesseegunclassifieds.com/location-37/tri-cities/ failed with: Http code=403, url=http://www.tennesseegunclassifieds.com/location-37/tri-cities/         \
+29. http://www.texasgunclassifieds.com/ failed with: Http code=503, url=http://www.texasgunclassifieds.com/       \
+30. http://www.texasgunclassifieds.com/images/txgc468.gif failed with: Http code=503, url=http://www.texasgunclassifieds.com/images/txgc468.gif          \
+31. http://www.thecmp.org/Competitions/Rimfire.htm failed with: Http code=403, url=http://www.thecmp.org/Competitions/Rimfire.htm          \
+32. http://www.thegunrange.com/ failed with: java.net.SocketException: Connection reset \
+33. http://www.thehorseshow.com/ failed with: java.net.SocketException: Connection reset\
+34. http://yuma.backpage.com/AccountingJobs/accountant-yuma-outsourcecom-yuma-az/35049963 failed with: Http code=520, url=http://yuma.backpage.com/AccountingJobs/accountant-yuma-outsourcecom-yuma-az/35049963         35. http://yuma.backpage.com/AccountingJobs/api-for-cloud-accounting-social-media-client-ma-yuma-outsourcecom-yuma-az/35401744 failed with: Http code=520, url=http://yuma.backpage.com/AccountingJobs/api-for-cloud-accounting-social-media-client-ma-yuma-outsourcecom-yuma-az/35401744        \
+36. http://yuma.backpage.com/AccountingJobs/asst-div-controller-hauling-yuma/34982542 failed with: Http code=520, url=http://yuma.backpage.com/AccountingJobs/asst-div-controller-hauling-yuma/34982542      \
+37. http://yuma.backpage.com/AccountingJobs/asst-div-controller-hauling-yuma/35402426 failed with: Http code=520, url=http://yuma.backpage.com/AccountingJobs/asst-div-controller-hauling-yuma/35402426     \
+38. http://yuma.backpage.com/AccountingJobs/childrens-book-illustrations-yuma-outsourcecom-yuma-az/35040811 failed with: Http code=520, url={\field{\*\fldinst{HYPERLINK "http://yuma.backpage.com/AccountingJobs/childrens-book-illustrations-yuma-outsourcecom-yuma-az/35040811"}}{\fldrslt http://yuma.backpage.com/AccountingJobs/childrens-book-illustrations-yuma-outsourcecom-yuma-az/35040811}}\
+39. http://midwestguntrader.com/ failed with: Http code=500, url={\field{\*\fldinst{HYPERLINK "http://midwestguntrader.com/"}}{\fldrslt http://midwestguntrader.com/}}\
+40. http://fhclassifieds.com/ failed with: Http code=500, url={\field{\*\fldinst{HYPERLINK "http://fhclassifieds.com/"}}{\fldrslt http://fhclassifieds.com/}}\
+41. http://www.comprayventadearms.com/ failed with: Http code=500, url=http://www.comprayventadearms.com/\
+42. http://www.classifieds.al.com/ failed with: Http code=500, url={\field{\*\fldinst{HYPERLINK "http://www.classifieds.al.com/"}}{\fldrslt http://www.classifieds.al.com/}}\
+43. http://www.freegunclaXssifieds.com/ failed with: Http code=500, url={\field{\*\fldinst{HYPERLINK "http://www.freegunclaXssifieds.com/"}}{\fldrslt http://www.freegunclaXssifieds.com/}} \
+44. http://www.advanced-armanent.com/ failed with: Http code=500, url={\field{\*\fldinst{HYPERLINK "http://www.advanced-armanent.com/"}}{\fldrslt http://www.advanced-armanent.com/}}\
+45. https://nakedsecurity.sophos.com/categories failed with: java.io.EOFException\
+46. https://www.ammoeasy.com/ failed with: java.net.SocketTimeoutException: connect timed out\
+47. https://ag.ca.gov/subscriptions/detail.php failed with: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target \
+48. https://ammogals.com/skin/frontend/default/default/images/022.png failed with: Http code=403, url=https://ammogals.com/skin/frontend/default/default/images/022.png \
+49. https://ammogals.com/skin/frontend/default/default/images/log_in.png failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "https://ammogals.com/skin/frontend/default/default/images/log_in.png"}}{\fldrslt https://ammogals.com/skin/frontend/default/default/images/log_in.png}}\
+50. https://ammogals.com/skin/frontend/default/default/images/logo.png failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "https://ammogals.com/skin/frontend/default/default/images/logo.png"}}{\fldrslt https://ammogals.com/skin/frontend/default/default/images/logo.png}}\
+51. https://ammogals.com/skin/frontend/default/default/images/menu_left.png failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "https://ammogals.com/skin/frontend/default/default/images/menu_left.png"}}{\fldrslt https://ammogals.com/skin/frontend/default/default/images/menu_left.png}}\
+52. https://ammogals.com/skin/frontend/default/default/images/menu_right.png failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "https://ammogals.com/skin/frontend/default/default/images/menu_right.png"}}{\fldrslt https://ammogals.com/skin/frontend/default/default/images/menu_right.png}}\
+53. https://ammogals.com/skin/frontend/default/default/images/my_accent.jpg failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "https://ammogals.com/skin/frontend/default/default/images/my_accent.jpg"}}{\fldrslt https://ammogals.com/skin/frontend/default/default/images/my_accent.jpg}}\
+54. https://ammogals.com/skin/frontend/default/default/images/my_cart.png failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "https://ammogals.com/skin/frontend/default/default/images/my_cart.png"}}{\fldrslt https://ammogals.com/skin/frontend/default/default/images/my_cart.png}}\
+55. https://ammogals.com/skin/frontend/default/default/images/my_wishlist.png failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "https://ammogals.com/skin/frontend/default/default/images/my_wishlist.png"}}{\fldrslt https://ammogals.com/skin/frontend/default/default/images/my_wishlist.png}}\
+56. https://ammogals.com/skin/frontend/default/default/images/seachbtn.png failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "https://ammogals.com/skin/frontend/default/default/images/seachbtn.png"}}{\fldrslt https://ammogals.com/skin/frontend/default/default/images/seachbtn.png}}\
+57. https://app.fw.ky.gov/license/waonlinefront.aspx failed with: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target.\
+58. https://s3.amazonaws.com/NGT_User_Images/user_images/4fe9a6503c1c5thumb.jpg failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "https://s3.amazonaws.com/NGT_User_Images/user_images/4fe9a6503c1c5thumb.jpg"}}{\fldrslt https://s3.amazonaws.com/NGT_User_Images/user_images/4fe9a6503c1c5thumb.jpg}}\
+59. https://s3.amazonaws.com/NGT_User_Images/user_images/50aaa994a5e47thumb.jpg failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "https://s3.amazonaws.com/NGT_User_Images/user_images/50aaa994a5e47thumb.jpg"}}{\fldrslt https://s3.amazonaws.com/NGT_User_Images/user_images/50aaa994a5e47thumb.jpg}}\
+60. https://s3.amazonaws.com/NGT_User_Images/user_images/50ab23efd4235thumb.jpg failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "https://s3.amazonaws.com/NGT_User_Images/user_images/50ab23efd4235thumb.jpg"}}{\fldrslt https://s3.amazonaws.com/NGT_User_Images/user_images/50ab23efd4235thumb.jpg}}\
+61. https://s3.amazonaws.com/NGT_User_Images/user_images/50d8589fc9c57thumb.jpg failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "https://s3.amazonaws.com/NGT_User_Images/user_images/50d8589fc9c57thumb.jpg"}}{\fldrslt https://s3.amazonaws.com/NGT_User_Images/user_images/50d8589fc9c57thumb.jpg}}\
+62. https://s3.amazonaws.com/NGT_User_Images/user_images/517101813cdb6thumb.jpg failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "https://s3.amazonaws.com/NGT_User_Images/user_images/517101813cdb6thumb.jpg"}}{\fldrslt https://s3.amazonaws.com/NGT_User_Images/user_images/517101813cdb6thumb.jpg}}\
+63. https://s3.amazonaws.com/NGT_User_Images/user_images/53a305e197287.jpg failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "https://s3.amazonaws.com/NGT_User_Images/user_images/53a305e197287.jpg"}}{\fldrslt https://s3.amazonaws.com/NGT_User_Images/user_images/53a305e197287.jpg}}\
+64. https://s3.amazonaws.com/NGT_User_Images/user_images/53a305e197287thumb.jpg failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "https://s3.amazonaws.com/NGT_User_Images/user_images/53a305e197287thumb.jpg"}}{\fldrslt https://s3.amazonaws.com/NGT_User_Images/user_images/53a305e197287thumb.jpg}}\
+65. https://s3.amazonaws.com/NGT_User_Images/user_images/549356353e4b5thumb.jpg failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "https://s3.amazonaws.com/NGT_User_Images/user_images/549356353e4b5thumb.jpg"}}{\fldrslt https://s3.amazonaws.com/NGT_User_Images/user_images/549356353e4b5thumb.jpg}}\
+66. http://www.uhp.state.ut.us/ failed with: java.net.SocketTimeoutException: connect timed out\
+67. http://www.topgunvideoproductions.com/ failed with: java.net.UnknownHostException: {\field{\*\fldinst{HYPERLINK "http://www.topgunvideoproductions.com"}}{\fldrslt www.topgunvideoproductions.com}}\
+68. http://www.theoutdoorstrader.com/members/z71tahoe75.26293/ failed with: Http code=403, url=http://www.theoutdoorstrader.com/members/z71tahoe75.26293/ \
+69. http://www.theoutdoorstrader.com/members/zach-fossett.55683/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/zach-fossett.55683/"}}{\fldrslt http://www.theoutdoorstrader.com/members/zach-fossett.55683/}}\
+70. http://www.theoutdoorstrader.com/members/zander_sig.11700/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/zander_sig.11700/"}}{\fldrslt http://www.theoutdoorstrader.com/members/zander_sig.11700/}}\
+71. http://www.theoutdoorstrader.com/members/zarmm.28510/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/zarmm.28510/"}}{\fldrslt http://www.theoutdoorstrader.com/members/zarmm.28510/}}\
+72. http://www.theoutdoorstrader.com/members/zastava.1926/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/zastava.1926/"}}{\fldrslt http://www.theoutdoorstrader.com/members/zastava.1926/}}\
+73. http://www.theoutdoorstrader.com/members/zeake.16708/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/zeake.16708/"}}{\fldrslt http://www.theoutdoorstrader.com/members/zeake.16708/}}\
+74. http://www.theoutdoorstrader.com/members/zeeman.20642/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/zeeman.20642/"}}{\fldrslt http://www.theoutdoorstrader.com/members/zeeman.20642/}}\
+75. http://www.theoutdoorstrader.com/members/zekepup.8455/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/zekepup.8455/"}}{\fldrslt http://www.theoutdoorstrader.com/members/zekepup.8455/}}\
+76. http://www.theoutdoorstrader.com/members/zen314.1035/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/zen314.1035/"}}{\fldrslt http://www.theoutdoorstrader.com/members/zen314.1035/}}\
+77. http://www.theoutdoorstrader.com/members/zesty.1875/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/zesty.1875/"}}{\fldrslt http://www.theoutdoorstrader.com/members/zesty.1875/}}\
+78. http://www.theoutdoorstrader.com/members/zforzachariah14.40146/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/zforzachariah14.40146/"}}{\fldrslt http://www.theoutdoorstrader.com/members/zforzachariah14.40146/}}\
+79. http://www.theoutdoorstrader.com/members/ziegler.30359/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/ziegler.30359/"}}{\fldrslt http://www.theoutdoorstrader.com/members/ziegler.30359/}}\
+80. http://www.theoutdoorstrader.com/members/zippo1124.38347/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/zippo1124.38347/"}}{\fldrslt http://www.theoutdoorstrader.com/members/zippo1124.38347/}}\
+81. http://www.theoutdoorstrader.com/members/zmbekilr.18177/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/zmbekilr.18177/"}}{\fldrslt http://www.theoutdoorstrader.com/members/zmbekilr.18177/}}\
+82. http://www.theoutdoorstrader.com/members/zoey.44976/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/zoey.44976/"}}{\fldrslt http://www.theoutdoorstrader.com/members/zoey.44976/}}\
+83. http://www.theoutdoorstrader.com/members/zombie_apocolypse.3442/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/zombie_apocolypse.3442/"}}{\fldrslt http://www.theoutdoorstrader.com/members/zombie_apocolypse.3442/}}\
+84. http://www.theoutdoorstrader.com/members/zombie-ninja.14120/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/zombie-ninja.14120/"}}{\fldrslt http://www.theoutdoorstrader.com/members/zombie-ninja.14120/}}\
+85. http://www.theoutdoorstrader.com/members/zombie.15655/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/zombie.15655/"}}{\fldrslt http://www.theoutdoorstrader.com/members/zombie.15655/}}\
+86. http://www.theoutdoorstrader.com/members/zracin.12482/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/zracin.12482/"}}{\fldrslt http://www.theoutdoorstrader.com/members/zracin.12482/}}\
+87. http://www.theoutdoorstrader.com/members/zulu-tango.27770/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/zulu-tango.27770/"}}{\fldrslt http://www.theoutdoorstrader.com/members/zulu-tango.27770/}}\
+88. http://www.theoutdoorstrader.com/members/zx7rider.23106/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/members/zx7rider.23106/"}}{\fldrslt http://www.theoutdoorstrader.com/members/zx7rider.23106/}}\
+89. http://www.theoutdoorstrader.com/threads/non-partisan-elections.995236/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/threads/non-partisan-elections.995236/"}}{\fldrslt http://www.theoutdoorstrader.com/threads/non-partisan-elections.995236/}}\
+90. http://www.theoutdoorstrader.com/threads/sandy-springs-gun-club-and-range-passes-2-winner-is-mgonza.979642/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.theoutdoorstrader.com/threads/sandy-springs-gun-club-and-range-passes-2-winner-is-mgonza.979642/"}}{\fldrslt http://www.theoutdoorstrader.com/threads/sandy-springs-gun-club-and-range-passes-2-winner-is-mgonza.979642/}}\
+91. http://www.kyclassifieds.com/xmlrpc.php failed with: Http code=405, url={\field{\*\fldinst{HYPERLINK "http://www.kyclassifieds.com/xmlrpc.php"}}{\fldrslt http://www.kyclassifieds.com/xmlrpc.php}}\
+92. http://www.montanagunclassifieds.com/adpics/531dee2ab254cbf54bc29d356.jpg failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.montanagunclassifieds.com/adpics/531dee2ab254cbf54bc29d356.jpg"}}{\fldrslt http://www.montanagunclassifieds.com/adpics/531dee2ab254cbf54bc29d356.jpg}}\
+93. http://www.montanagunclassifieds.com/adpics/535fd744083bcee83a776fc95.jpg failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.montanagunclassifieds.com/adpics/535fd744083bcee83a776fc95.jpg"}}{\fldrslt http://www.montanagunclassifieds.com/adpics/535fd744083bcee83a776fc95.jpg}}\
+94. http://www.montanagunclassifieds.com/adpics/53ddb3ed8d871c4c7f720f698.jpg failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.montanagunclassifieds.com/adpics/53ddb3ed8d871c4c7f720f698.jpg"}}{\fldrslt http://www.montanagunclassifieds.com/adpics/53ddb3ed8d871c4c7f720f698.jpg}}\
+95. http://www.montanagunclassifieds.com/adpics/53fab84303e26c4c7f720f698.jpg failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.montanagunclassifieds.com/adpics/53fab84303e26c4c7f720f698.jpg"}}{\fldrslt http://www.montanagunclassifieds.com/adpics/53fab84303e26c4c7f720f698.jpg}}\
+96. http://www.montanagunclassifieds.com/feed/0/posts/1/11/ failed with: Http code=403, url=http://www.montanagunclassifieds.com/feed/0/posts/1/11/ \
+97. http://www.montanagunclassifieds.com/feed/0/posts/1/12/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.montanagunclassifieds.com/feed/0/posts/1/12/"}}{\fldrslt http://www.montanagunclassifieds.com/feed/0/posts/1/12/}}\
+98. http://www.montanagunclassifieds.com/feed/0/posts/14/99/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.montanagunclassifieds.com/feed/0/posts/14/99/"}}{\fldrslt http://www.montanagunclassifieds.com/feed/0/posts/14/99/}}\
+99. http://www.montanagunclassifieds.com/feed/0/posts/4/20/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.montanagunclassifieds.com/feed/0/posts/4/20/"}}{\fldrslt http://www.montanagunclassifieds.com/feed/0/posts/4/20/}}\
+100. http://www.montanagunclassifieds.com/feed/0/posts/5/101/ failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.montanagunclassifieds.com/feed/0/posts/5/101/"}}{\fldrslt http://www.montanagunclassifieds.com/feed/0/posts/5/101/}}\
+101. http://www.montanagunclassifieds.com/keyword_1911_0.html failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.montanagunclassifieds.com/keyword_1911_0.html"}}{\fldrslt http://www.montanagunclassifieds.com/keyword_1911_0.html}}\
+102. http://www.montanagunclassifieds.com/keyword_9mm_0.html failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.montanagunclassifieds.com/keyword_9mm_0.html"}}{\fldrslt http://www.montanagunclassifieds.com/keyword_9mm_0.html}}\
+103. http://www.montanagunclassifieds.com/keyword_arms_0.html failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.montanagunclassifieds.com/keyword_arms_0.html"}}{\fldrslt http://www.montanagunclassifieds.com/keyword_arms_0.html}}\
+104. http://www.montanagunclassifieds.com/keyword_mag_0.html failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.montanagunclassifieds.com/keyword_mag_0.html"}}{\fldrslt http://www.montanagunclassifieds.com/keyword_mag_0.html}}\
+105. http://www.montanagunclassifieds.com/profile-420.html failed with: Http code=403, url={\field{\*\fldinst{HYPERLINK "http://www.montanagunclassifieds.com/profile-420.html"}}{\fldrslt http://www.montanagunclassifieds.com/profile-420.html}}\
+106. http://www.wantaddigest.com/dealer/market-ripvanwinkleparts.asp: failed(2,0): Can't retrieve Tika parser for mime-type text/asp\
+107. http://www.tell-n-sell.com/blog/xmlrpc.php: failed(2,0): Can't retrieve Tika parser for mime-type text/x-php\
+108. http://i.oodleimg.com/caml/news-personal-home/1423076120/: failed(2,0): Can't retrieve Tika parser for mime-type text/css\
+109. http://load.sumome.com/: failed(2,0): Can't retrieve Tika parser for mime-type application/javascript}

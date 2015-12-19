@@ -1,0 +1,4871 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "Flash Details",
+                    "size": 1
+                },
+                {
+                    "name": "Base ISO",
+                    "size": 1
+                },
+                {
+                    "name": "Thumbnail Offset",
+                    "size": 1
+                },
+                {
+                    "name": "exif:DateTimeOriginal",
+                    "size": 1
+                },
+                {
+                    "name": "Focus Type",
+                    "size": 1
+                },
+                {
+                    "name": "Flash",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc12a)",
+                    "size": 1
+                },
+                {
+                    "name": "meta:save-date",
+                    "size": 1
+                },
+                {
+                    "name": "Image Description",
+                    "size": 1
+                },
+                {
+                    "name": "resourceName",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:BitsPerSample",
+                    "size": 1
+                },
+                {
+                    "name": "My Colors",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:Make",
+                    "size": 1
+                },
+                {
+                    "name": "AF Point Selected",
+                    "size": 1
+                },
+                {
+                    "name": "Exif Image Width",
+                    "size": 1
+                },
+                {
+                    "name": "Bulb Duration",
+                    "size": 1
+                },
+                {
+                    "name": "Firmware Revision",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc124)",
+                    "size": 1
+                },
+                {
+                    "name": "Profile Description",
+                    "size": 1
+                },
+                {
+                    "name": "Focus Distance Upper",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:Orientation",
+                    "size": 1
+                },
+                {
+                    "name": "Resolution Unit",
+                    "size": 1
+                },
+                {
+                    "name": "Creation-Date",
+                    "size": 1
+                },
+                {
+                    "name": "User Comment",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x0019)",
+                    "size": 1
+                },
+                {
+                    "name": "Focal Plane X Resolution",
+                    "size": 1
+                },
+                {
+                    "name": "Digital Zoom Ratio",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc12b)",
+                    "size": 1
+                },
+                {
+                    "name": "Color space",
+                    "size": 1
+                },
+                {
+                    "name": "ISO Speed Ratings",
+                    "size": 1
+                },
+                {
+                    "name": "Macro Mode",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Save-Date",
+                    "size": 1
+                },
+                {
+                    "name": "Exif Version",
+                    "size": 1
+                },
+                {
+                    "name": "Red Colorant",
+                    "size": 1
+                },
+                {
+                    "name": "Components Configuration",
+                    "size": 1
+                },
+                {
+                    "name": "DCT Encode Version",
+                    "size": 1
+                },
+                {
+                    "name": "Image Size",
+                    "size": 1
+                },
+                {
+                    "name": "Aspect Information Array",
+                    "size": 1
+                },
+                {
+                    "name": "Primary Platform",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x0035)",
+                    "size": 1
+                },
+                {
+                    "name": "Slow Shutter",
+                    "size": 1
+                },
+                {
+                    "name": "Profile Date/Time",
+                    "size": 1
+                },
+                {
+                    "name": "meta:creation-date",
+                    "size": 1
+                },
+                {
+                    "name": "Data Precision",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc125)",
+                    "size": 1
+                },
+                {
+                    "name": "Viewing Conditions Description",
+                    "size": 1
+                },
+                {
+                    "name": "Measurement",
+                    "size": 1
+                },
+                {
+                    "name": "Compression Type",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc131)",
+                    "size": 1
+                },
+                {
+                    "name": "Content-Type",
+                    "size": 1
+                },
+                {
+                    "name": "FlashPix Version",
+                    "size": 1
+                },
+                {
+                    "name": "Device Model Description",
+                    "size": 1
+                },
+                {
+                    "name": "AF Info Array 2",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc12c)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown Camera Setting 9",
+                    "size": 1
+                },
+                {
+                    "name": "Max Aperture Value",
+                    "size": 1
+                },
+                {
+                    "name": "Image Width",
+                    "size": 1
+                },
+                {
+                    "name": "Color Space",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:ResolutionUnit",
+                    "size": 1
+                },
+                {
+                    "name": "File Size",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Modified",
+                    "size": 1
+                },
+                {
+                    "name": "Long Focal Length",
+                    "size": 1
+                },
+                {
+                    "name": "Flash Exposure Compensation",
+                    "size": 1
+                },
+                {
+                    "name": "dcterms:created",
+                    "size": 1
+                },
+                {
+                    "name": "F Number",
+                    "size": 1
+                },
+                {
+                    "name": "Target Exposure Time",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc400)",
+                    "size": 1
+                },
+                {
+                    "name": "Date/Time Original",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x0018)",
+                    "size": 1
+                },
+                {
+                    "name": "Sensitivity Type",
+                    "size": 1
+                },
+                {
+                    "name": "Shutter Speed Value",
+                    "size": 1
+                },
+                {
+                    "name": "Artist",
+                    "size": 1
+                },
+                {
+                    "name": "Focal Units per mm",
+                    "size": 1
+                },
+                {
+                    "name": "Flash Activity",
+                    "size": 1
+                },
+                {
+                    "name": "Auto ISO",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc130)",
+                    "size": 1
+                },
+                {
+                    "name": "Aperture Value",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:Model",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown Camera Setting 13",
+                    "size": 1
+                },
+                {
+                    "name": "AF Points in Focus",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown Camera Setting 10",
+                    "size": 1
+                },
+                {
+                    "name": "Class",
+                    "size": 1
+                },
+                {
+                    "name": "Categories",
+                    "size": 1
+                },
+                {
+                    "name": "Image Type",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc12d)",
+                    "size": 1
+                },
+                {
+                    "name": "Focal Length",
+                    "size": 1
+                },
+                {
+                    "name": "Focus Distance Lower",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:ImageWidth",
+                    "size": 1
+                },
+                {
+                    "name": "Iso",
+                    "size": 1
+                },
+                {
+                    "name": "Date Stamp Mode",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x0003)",
+                    "size": 1
+                },
+                {
+                    "name": "Firmware Version",
+                    "size": 1
+                },
+                {
+                    "name": "Flash Mode",
+                    "size": 1
+                },
+                {
+                    "name": "Image Number",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x0033)",
+                    "size": 1
+                },
+                {
+                    "name": "X Resolution",
+                    "size": 1
+                },
+                {
+                    "name": "Focus Mode",
+                    "size": 1
+                },
+                {
+                    "name": "exif:FocalLength",
+                    "size": 1
+                },
+                {
+                    "name": "Continuous Drive Mode",
+                    "size": 1
+                },
+                {
+                    "name": "Sharpness",
+                    "size": 1
+                },
+                {
+                    "name": "Y Resolution",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc420)",
+                    "size": 1
+                },
+                {
+                    "name": "Optical Zoom Code",
+                    "size": 1
+                },
+                {
+                    "name": "Self Timer 2",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc121)",
+                    "size": 1
+                },
+                {
+                    "name": "Component 2",
+                    "size": 1
+                },
+                {
+                    "name": "Exposure Bias Value",
+                    "size": 1
+                },
+                {
+                    "name": "VRD Offset",
+                    "size": 1
+                },
+                {
+                    "name": "Technology",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc12e)",
+                    "size": 1
+                },
+                {
+                    "name": "Control Mode",
+                    "size": 1
+                },
+                {
+                    "name": "Copyright",
+                    "size": 1
+                },
+                {
+                    "name": "Make",
+                    "size": 1
+                },
+                {
+                    "name": "Signature",
+                    "size": 1
+                },
+                {
+                    "name": "Auto Exposure Bracketing",
+                    "size": 1
+                },
+                {
+                    "name": "Thumbnail Length",
+                    "size": 1
+                },
+                {
+                    "name": "Red TRC",
+                    "size": 1
+                },
+                {
+                    "name": "exif:IsoSpeedRatings",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown Camera Setting 8",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown Camera Setting 7",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown Camera Setting 4",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown Camera Setting 3",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown Camera Setting 2",
+                    "size": 1
+                },
+                {
+                    "name": "Contrast",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:XResolution",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x0032)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc128)",
+                    "size": 1
+                },
+                {
+                    "name": "Related Image Height",
+                    "size": 1
+                },
+                {
+                    "name": "Viewing Conditions",
+                    "size": 1
+                },
+                {
+                    "name": "Camera Type",
+                    "size": 1
+                },
+                {
+                    "name": "Camera Info Array",
+                    "size": 1
+                },
+                {
+                    "name": "Exposure Mode",
+                    "size": 1
+                },
+                {
+                    "name": "Scene Capture Type",
+                    "size": 1
+                },
+                {
+                    "name": "White Balance Mode",
+                    "size": 1
+                },
+                {
+                    "name": "exif:FNumber",
+                    "size": 1
+                },
+                {
+                    "name": "File Source",
+                    "size": 1
+                },
+                {
+                    "name": "Interoperability Version",
+                    "size": 1
+                },
+                {
+                    "name": "Blue TRC",
+                    "size": 1
+                },
+                {
+                    "name": "Interoperability Index",
+                    "size": 1
+                },
+                {
+                    "name": "Easy Shooting Mode",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc126)",
+                    "size": 1
+                },
+                {
+                    "name": "Flags 0",
+                    "size": 1
+                },
+                {
+                    "name": "Flags 1",
+                    "size": 1
+                },
+                {
+                    "name": "Green Colorant",
+                    "size": 1
+                },
+                {
+                    "name": "CMM Type",
+                    "size": 1
+                },
+                {
+                    "name": "X-TIKA:parse_time_millis",
+                    "size": 1
+                },
+                {
+                    "name": "Image Height",
+                    "size": 1
+                },
+                {
+                    "name": "Profile Size",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x0031)",
+                    "size": 1
+                },
+                {
+                    "name": "Flash Output",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x002f)",
+                    "size": 1
+                },
+                {
+                    "name": "Orientation",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc129)",
+                    "size": 1
+                },
+                {
+                    "name": "Exposure Time",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown Camera Setting 12",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc41e)",
+                    "size": 1
+                },
+                {
+                    "name": "Flash Guide Number",
+                    "size": 1
+                },
+                {
+                    "name": "modified",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x0022)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc127)",
+                    "size": 1
+                },
+                {
+                    "name": "Target Aperture",
+                    "size": 1
+                },
+                {
+                    "name": "Metering Mode",
+                    "size": 1
+                },
+                {
+                    "name": "Profile Connection Space",
+                    "size": 1
+                },
+                {
+                    "name": "Device model",
+                    "size": 1
+                },
+                {
+                    "name": "Related Image Width",
+                    "size": 1
+                },
+                {
+                    "name": "YCbCr Positioning",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x001f)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc419)",
+                    "size": 1
+                },
+                {
+                    "name": "Custom Rendered",
+                    "size": 1
+                },
+                {
+                    "name": "Self Timer Delay",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:YResolution",
+                    "size": 1
+                },
+                {
+                    "name": "Focal Plane Y Resolution",
+                    "size": 1
+                },
+                {
+                    "name": "Sensing Method",
+                    "size": 1
+                },
+                {
+                    "name": "Media Black Point",
+                    "size": 1
+                },
+                {
+                    "name": "Exif Image Height",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:ImageLength",
+                    "size": 1
+                },
+                {
+                    "name": "ND Filter",
+                    "size": 1
+                },
+                {
+                    "name": "Resolution Units",
+                    "size": 1
+                },
+                {
+                    "name": "Short Focal Length",
+                    "size": 1
+                },
+                {
+                    "name": "Focal Plane Resolution Unit",
+                    "size": 1
+                },
+                {
+                    "name": "Tag Count",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x002d)",
+                    "size": 1
+                },
+                {
+                    "name": "AEB Bracket Value",
+                    "size": 1
+                },
+                {
+                    "name": "X-Parsed-By",
+                    "size": 1
+                },
+                {
+                    "name": "Blue Colorant",
+                    "size": 1
+                },
+                {
+                    "name": "Saturation",
+                    "size": 1
+                },
+                {
+                    "name": "date",
+                    "size": 1
+                },
+                {
+                    "name": "Digital Zoom",
+                    "size": 1
+                },
+                {
+                    "name": "Device manufacturer",
+                    "size": 1
+                },
+                {
+                    "name": "Date/Time",
+                    "size": 1
+                },
+                {
+                    "name": "Green TRC",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc40b)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc100)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc122)",
+                    "size": 1
+                },
+                {
+                    "name": "dc:description",
+                    "size": 1
+                },
+                {
+                    "name": "Thumbnail Image Valid Area",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc12f)",
+                    "size": 1
+                },
+                {
+                    "name": "Media White Point",
+                    "size": 1
+                },
+                {
+                    "name": "Device Mfg Description",
+                    "size": 1
+                },
+                {
+                    "name": "description",
+                    "size": 1
+                },
+                {
+                    "name": "Color Transform",
+                    "size": 1
+                },
+                {
+                    "name": "XYZ values",
+                    "size": 1
+                },
+                {
+                    "name": "White Balance",
+                    "size": 1
+                },
+                {
+                    "name": "Measured EV",
+                    "size": 1
+                },
+                {
+                    "name": "Date/Time Digitized",
+                    "size": 1
+                },
+                {
+                    "name": "Camera Owner Name",
+                    "size": 1
+                },
+                {
+                    "name": "Component 3",
+                    "size": 1
+                },
+                {
+                    "name": "Number of Components",
+                    "size": 1
+                },
+                {
+                    "name": "Component 1",
+                    "size": 1
+                },
+                {
+                    "name": "exif:Flash",
+                    "size": 1
+                },
+                {
+                    "name": "Image Unique ID",
+                    "size": 1
+                },
+                {
+                    "name": "Model",
+                    "size": 1
+                },
+                {
+                    "name": "Canon Model ID",
+                    "size": 1
+                },
+                {
+                    "name": "Sequence Number",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x002e)",
+                    "size": 1
+                },
+                {
+                    "name": "exif:ExposureTime",
+                    "size": 1
+                },
+                {
+                    "name": "Luminance",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x0027)",
+                    "size": 1
+                },
+                {
+                    "name": "Auto Rotate",
+                    "size": 1
+                },
+                {
+                    "name": "File Modified Date",
+                    "size": 1
+                },
+                {
+                    "name": "Compressed Bits Per Pixel",
+                    "size": 1
+                },
+                {
+                    "name": "File Name",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc41f)",
+                    "size": 1
+                },
+                {
+                    "name": "Thumbnail Compression",
+                    "size": 1
+                },
+                {
+                    "name": "F-Number",
+                    "size": 1
+                },
+                {
+                    "name": "GPS Version ID",
+                    "size": 1
+                },
+                {
+                    "name": "Measured EV 2",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xc123)",
+                    "size": 1
+                },
+                {
+                    "name": "dcterms:modified",
+                    "size": 1
+                },
+                {
+                    "name": "Quality",
+                    "size": 1
+                },
+                {
+                    "name": "Camera Temperature",
+                    "size": 1
+                },
+                {
+                    "name": "Exposure Compensation",
+                    "size": 1
+                }
+            ],
+            "name": "cluster0"
+        },
+        {
+            "children": [
+                {
+                    "name": "Flash Details",
+                    "size": 52
+                },
+                {
+                    "name": "Base ISO",
+                    "size": 52
+                },
+                {
+                    "name": "Thumbnail Offset",
+                    "size": 572
+                },
+                {
+                    "name": "exif:DateTimeOriginal",
+                    "size": 618
+                },
+                {
+                    "name": "Focus Type",
+                    "size": 52
+                },
+                {
+                    "name": "Flash",
+                    "size": 598
+                },
+                {
+                    "name": "Unknown tag (0xc12a)",
+                    "size": 52
+                },
+                {
+                    "name": "meta:save-date",
+                    "size": 771
+                },
+                {
+                    "name": "Sub-Sec Time",
+                    "size": 202
+                },
+                {
+                    "name": "resourceName",
+                    "size": 20587
+                },
+                {
+                    "name": "tiff:BitsPerSample",
+                    "size": 18360
+                },
+                {
+                    "name": "Unknown tag (0xc126)",
+                    "size": 52
+                },
+                {
+                    "name": "Unknown tag (0x4025)",
+                    "size": 3
+                },
+                {
+                    "name": "tiff:Make",
+                    "size": 618
+                },
+                {
+                    "name": "AF Point Selected",
+                    "size": 54
+                },
+                {
+                    "name": "Copyright",
+                    "size": 467
+                },
+                {
+                    "name": "Exif Image Width",
+                    "size": 840
+                },
+                {
+                    "name": "Auto ISO",
+                    "size": 52
+                },
+                {
+                    "name": "Unknown tag (0xc100)",
+                    "size": 52
+                },
+                {
+                    "name": "Unknown tag (0xc124)",
+                    "size": 52
+                },
+                {
+                    "name": "Focus Distance Upper",
+                    "size": 52
+                },
+                {
+                    "name": "tiff:Orientation",
+                    "size": 779
+                },
+                {
+                    "name": "Dust Removal Data",
+                    "size": 9
+                },
+                {
+                    "name": "User Comment",
+                    "size": 293
+                },
+                {
+                    "name": "Rating",
+                    "size": 80
+                },
+                {
+                    "name": "Focal Plane X Resolution",
+                    "size": 149
+                },
+                {
+                    "name": "Measured Color Array",
+                    "size": 9
+                },
+                {
+                    "name": "Unknown tag (0xc12b)",
+                    "size": 52
+                },
+                {
+                    "name": "ISO Speed Ratings",
+                    "size": 583
+                },
+                {
+                    "name": "Macro Mode",
+                    "size": 56
+                },
+                {
+                    "name": "Last-Save-Date",
+                    "size": 771
+                },
+                {
+                    "name": "Exif Version",
+                    "size": 684
+                },
+                {
+                    "name": "AF Points in Focus",
+                    "size": 52
+                },
+                {
+                    "name": "Lens Info Array",
+                    "size": 5
+                },
+                {
+                    "name": "Components Configuration",
+                    "size": 525
+                },
+                {
+                    "name": "Image Size",
+                    "size": 52
+                },
+                {
+                    "name": "Aspect Information Array",
+                    "size": 17
+                },
+                {
+                    "name": "Unknown tag (0x4021)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x4009)",
+                    "size": 9
+                },
+                {
+                    "name": "Unknown tag (0x0035)",
+                    "size": 13
+                },
+                {
+                    "name": "Slow Shutter",
+                    "size": 52
+                },
+                {
+                    "name": "meta:creation-date",
+                    "size": 838
+                },
+                {
+                    "name": "Data Precision",
+                    "size": 14986
+                },
+                {
+                    "name": "Unknown tag (0xc125)",
+                    "size": 52
+                },
+                {
+                    "name": "Flash Exposure Compensation",
+                    "size": 79
+                },
+                {
+                    "name": "tiff:ImageWidth",
+                    "size": 20045
+                },
+                {
+                    "name": "Compression Type",
+                    "size": 14986
+                },
+                {
+                    "name": "Content-Type",
+                    "size": 20637
+                },
+                {
+                    "name": "FlashPix Version",
+                    "size": 538
+                },
+                {
+                    "name": "VRD Offset",
+                    "size": 44
+                },
+                {
+                    "name": "ND Filter",
+                    "size": 52
+                },
+                {
+                    "name": "AF Info Array 2",
+                    "size": 45
+                },
+                {
+                    "name": "Unknown tag (0xc12c)",
+                    "size": 52
+                },
+                {
+                    "name": "Unknown Camera Setting 9",
+                    "size": 52
+                },
+                {
+                    "name": "Image Width",
+                    "size": 14986
+                },
+                {
+                    "name": "Color Space",
+                    "size": 750
+                },
+                {
+                    "name": "tiff:ResolutionUnit",
+                    "size": 772
+                },
+                {
+                    "name": "Crop Info",
+                    "size": 9
+                },
+                {
+                    "name": "File Size",
+                    "size": 14986
+                },
+                {
+                    "name": "Last-Modified",
+                    "size": 771
+                },
+                {
+                    "name": "Long Focal Length",
+                    "size": 52
+                },
+                {
+                    "name": "dcterms:created",
+                    "size": 838
+                },
+                {
+                    "name": "F Number",
+                    "size": 52
+                },
+                {
+                    "name": "Target Exposure Time",
+                    "size": 52
+                },
+                {
+                    "name": "Unknown tag (0xc400)",
+                    "size": 52
+                },
+                {
+                    "name": "Recommended Exposure Index",
+                    "size": 43
+                },
+                {
+                    "name": "Date/Time Original",
+                    "size": 625
+                },
+                {
+                    "name": "Sensitivity Type",
+                    "size": 108
+                },
+                {
+                    "name": "Shutter Speed Value",
+                    "size": 451
+                },
+                {
+                    "name": "Color Data Array 1",
+                    "size": 9
+                },
+                {
+                    "name": "Owner Name",
+                    "size": 45
+                },
+                {
+                    "name": "Focal Units per mm",
+                    "size": 52
+                },
+                {
+                    "name": "Flash Activity",
+                    "size": 52
+                },
+                {
+                    "name": "Bulb Duration",
+                    "size": 52
+                },
+                {
+                    "name": "Unknown tag (0xc130)",
+                    "size": 9
+                },
+                {
+                    "name": "Aperture Value",
+                    "size": 454
+                },
+                {
+                    "name": "tiff:Model",
+                    "size": 617
+                },
+                {
+                    "name": "Unknown Camera Setting 13",
+                    "size": 52
+                },
+                {
+                    "name": "Unknown Camera Setting 12",
+                    "size": 52
+                },
+                {
+                    "name": "Unknown Camera Setting 10",
+                    "size": 52
+                },
+                {
+                    "name": "Focal Plane Resolution Unit",
+                    "size": 150
+                },
+                {
+                    "name": "Serial Info Array",
+                    "size": 9
+                },
+                {
+                    "name": "Image Type",
+                    "size": 52
+                },
+                {
+                    "name": "Unknown tag (0xc12d)",
+                    "size": 52
+                },
+                {
+                    "name": "Focal Length",
+                    "size": 607
+                },
+                {
+                    "name": "Focus Distance Lower",
+                    "size": 52
+                },
+                {
+                    "name": "Unknown tag (0x4027)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x0003)",
+                    "size": 52
+                },
+                {
+                    "name": "Firmware Version",
+                    "size": 92
+                },
+                {
+                    "name": "Flash Mode",
+                    "size": 76
+                },
+                {
+                    "name": "Sub-Sec Time Digitized",
+                    "size": 263
+                },
+                {
+                    "name": "Focus Mode",
+                    "size": 75
+                },
+                {
+                    "name": "exif:FocalLength",
+                    "size": 600
+                },
+                {
+                    "name": "Continuous Drive Mode",
+                    "size": 52
+                },
+                {
+                    "name": "Sharpness",
+                    "size": 249
+                },
+                {
+                    "name": "Y Resolution",
+                    "size": 14505
+                },
+                {
+                    "name": "Unknown tag (0xc420)",
+                    "size": 52
+                },
+                {
+                    "name": "Optical Zoom Code",
+                    "size": 52
+                },
+                {
+                    "name": "Lens Model",
+                    "size": 171
+                },
+                {
+                    "name": "Self Timer 2",
+                    "size": 52
+                },
+                {
+                    "name": "Unknown tag (0xc121)",
+                    "size": 52
+                },
+                {
+                    "name": "Component 2",
+                    "size": 14969
+                },
+                {
+                    "name": "Exposure Bias Value",
+                    "size": 558
+                },
+                {
+                    "name": "Filter Info Array",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0xc12e)",
+                    "size": 44
+                },
+                {
+                    "name": "Control Mode",
+                    "size": 52
+                },
+                {
+                    "name": "XMP Value Count",
+                    "size": 575
+                },
+                {
+                    "name": "Unknown tag (0xc201)",
+                    "size": 43
+                },
+                {
+                    "name": "Make",
+                    "size": 625
+                },
+                {
+                    "name": "Auto Exposure Bracketing",
+                    "size": 52
+                },
+                {
+                    "name": "Custom Picture Style File Name",
+                    "size": 9
+                },
+                {
+                    "name": "Thumbnail Length",
+                    "size": 571
+                },
+                {
+                    "name": "exif:IsoSpeedRatings",
+                    "size": 586
+                },
+                {
+                    "name": "Unknown Camera Setting 8",
+                    "size": 52
+                },
+                {
+                    "name": "Lens Serial Number",
+                    "size": 24
+                },
+                {
+                    "name": "Unknown Camera Setting 4",
+                    "size": 52
+                },
+                {
+                    "name": "Unknown Camera Setting 3",
+                    "size": 52
+                },
+                {
+                    "name": "Unknown Camera Setting 2",
+                    "size": 52
+                },
+                {
+                    "name": "Contrast",
+                    "size": 228
+                },
+                {
+                    "name": "tiff:XResolution",
+                    "size": 642
+                },
+                {
+                    "name": "Black Level",
+                    "size": 10
+                },
+                {
+                    "name": "Unknown tag (0xc128)",
+                    "size": 52
+                },
+                {
+                    "name": "Camera Type",
+                    "size": 52
+                },
+                {
+                    "name": "Camera Info Array",
+                    "size": 52
+                },
+                {
+                    "name": "Lens Specification",
+                    "size": 179
+                },
+                {
+                    "name": "Exposure Mode",
+                    "size": 567
+                },
+                {
+                    "name": "Scene Capture Type",
+                    "size": 540
+                },
+                {
+                    "name": "White Balance Mode",
+                    "size": 577
+                },
+                {
+                    "name": "exif:FNumber",
+                    "size": 600
+                },
+                {
+                    "name": "Interoperability Version",
+                    "size": 312
+                },
+                {
+                    "name": "Body Serial Number",
+                    "size": 36
+                },
+                {
+                    "name": "Vignetting Correction Array 2",
+                    "size": 6
+                },
+                {
+                    "name": "Interoperability Index",
+                    "size": 283
+                },
+                {
+                    "name": "Unknown tag (0xc200)",
+                    "size": 43
+                },
+                {
+                    "name": "Easy Shooting Mode",
+                    "size": 52
+                },
+                {
+                    "name": "X Resolution",
+                    "size": 14505
+                },
+                {
+                    "name": "Thumbnail Compression",
+                    "size": 566
+                },
+                {
+                    "name": "Lighting Optimizer Array",
+                    "size": 5
+                },
+                {
+                    "name": "Color Info Array",
+                    "size": 3
+                },
+                {
+                    "name": "Processing Information Array",
+                    "size": 9
+                },
+                {
+                    "name": "Resolution Unit",
+                    "size": 778
+                },
+                {
+                    "name": "Flash Output",
+                    "size": 52
+                },
+                {
+                    "name": "Unknown tag (0x4012)",
+                    "size": 9
+                },
+                {
+                    "name": "Orientation",
+                    "size": 781
+                },
+                {
+                    "name": "Unknown tag (0xc129)",
+                    "size": 52
+                },
+                {
+                    "name": "Exposure Time",
+                    "size": 607
+                },
+                {
+                    "name": "Unknown tag (0xc41e)",
+                    "size": 52
+                },
+                {
+                    "name": "Flash Guide Number",
+                    "size": 52
+                },
+                {
+                    "name": "modified",
+                    "size": 771
+                },
+                {
+                    "name": "Unknown tag (0xc127)",
+                    "size": 52
+                },
+                {
+                    "name": "Target Aperture",
+                    "size": 52
+                },
+                {
+                    "name": "Metering Mode",
+                    "size": 588
+                },
+                {
+                    "name": "Digital Zoom",
+                    "size": 65
+                },
+                {
+                    "name": "YCbCr Positioning",
+                    "size": 573
+                },
+                {
+                    "name": "Iso",
+                    "size": 52
+                },
+                {
+                    "name": "Unknown tag (0xc419)",
+                    "size": 52
+                },
+                {
+                    "name": "Custom Rendered",
+                    "size": 357
+                },
+                {
+                    "name": "Self Timer Delay",
+                    "size": 52
+                },
+                {
+                    "name": "tiff:YResolution",
+                    "size": 773
+                },
+                {
+                    "name": "File Info Array",
+                    "size": 9
+                },
+                {
+                    "name": "Exposure Program",
+                    "size": 478
+                },
+                {
+                    "name": "Focal Plane Y Resolution",
+                    "size": 149
+                },
+                {
+                    "name": "Unknown tag (0xc203)",
+                    "size": 43
+                },
+                {
+                    "name": "Exif Image Height",
+                    "size": 840
+                },
+                {
+                    "name": "tiff:ImageLength",
+                    "size": 20045
+                },
+                {
+                    "name": "Unknown tag (0x4011)",
+                    "size": 9
+                },
+                {
+                    "name": "Resolution Units",
+                    "size": 14363
+                },
+                {
+                    "name": "Ambiance Info Array",
+                    "size": 5
+                },
+                {
+                    "name": "Short Focal Length",
+                    "size": 52
+                },
+                {
+                    "name": "Unknown tag (0x0019)",
+                    "size": 52
+                },
+                {
+                    "name": "AEB Bracket Value",
+                    "size": 52
+                },
+                {
+                    "name": "X-Parsed-By",
+                    "size": 20637
+                },
+                {
+                    "name": "Saturation",
+                    "size": 229
+                },
+                {
+                    "name": "date",
+                    "size": 771
+                },
+                {
+                    "name": "Vignetting Correction Array 1",
+                    "size": 6
+                },
+                {
+                    "name": "Unknown tag (0xc41f)",
+                    "size": 52
+                },
+                {
+                    "name": "Sensor Information Array",
+                    "size": 9
+                },
+                {
+                    "name": "Date/Time",
+                    "size": 775
+                },
+                {
+                    "name": "Creation-Date",
+                    "size": 838
+                },
+                {
+                    "name": "Unknown tag (0xc40b)",
+                    "size": 52
+                },
+                {
+                    "name": "Unknown tag (0xc122)",
+                    "size": 52
+                },
+                {
+                    "name": "Thumbnail Image Valid Area",
+                    "size": 52
+                },
+                {
+                    "name": "Unknown tag (0xc12f)",
+                    "size": 41
+                },
+                {
+                    "name": "Unknown tag (0xc202)",
+                    "size": 43
+                },
+                {
+                    "name": "X-TIKA:parse_time_millis",
+                    "size": 20637
+                },
+                {
+                    "name": "Artist",
+                    "size": 61
+                },
+                {
+                    "name": "White Balance",
+                    "size": 336
+                },
+                {
+                    "name": "Measured EV",
+                    "size": 52
+                },
+                {
+                    "name": "Date/Time Digitized",
+                    "size": 627
+                },
+                {
+                    "name": "Camera Owner Name",
+                    "size": 31
+                },
+                {
+                    "name": "Component 3",
+                    "size": 14969
+                },
+                {
+                    "name": "Number of Components",
+                    "size": 14986
+                },
+                {
+                    "name": "Component 1",
+                    "size": 14986
+                },
+                {
+                    "name": "exif:Flash",
+                    "size": 598
+                },
+                {
+                    "name": "Model",
+                    "size": 624
+                },
+                {
+                    "name": "Canon Model ID",
+                    "size": 52
+                },
+                {
+                    "name": "Sequence Number",
+                    "size": 77
+                },
+                {
+                    "name": "exif:ExposureTime",
+                    "size": 600
+                },
+                {
+                    "name": "Sub-Sec Time Original",
+                    "size": 265
+                },
+                {
+                    "name": "Image Height",
+                    "size": 14986
+                },
+                {
+                    "name": "Auto Rotate",
+                    "size": 52
+                },
+                {
+                    "name": "File Modified Date",
+                    "size": 14986
+                },
+                {
+                    "name": "File Name",
+                    "size": 14986
+                },
+                {
+                    "name": "Custom Functions Array 2",
+                    "size": 9
+                },
+                {
+                    "name": "Unknown Camera Setting 7",
+                    "size": 52
+                },
+                {
+                    "name": "F-Number",
+                    "size": 607
+                },
+                {
+                    "name": "GPS Version ID",
+                    "size": 80
+                },
+                {
+                    "name": "Measured EV 2",
+                    "size": 52
+                },
+                {
+                    "name": "Unknown tag (0xc123)",
+                    "size": 52
+                },
+                {
+                    "name": "dcterms:modified",
+                    "size": 771
+                },
+                {
+                    "name": "Quality",
+                    "size": 74
+                },
+                {
+                    "name": "Camera Temperature",
+                    "size": 52
+                },
+                {
+                    "name": "Exposure Compensation",
+                    "size": 52
+                },
+                {
+                    "name": "Original Decision Data Offset",
+                    "size": 6
+                },
+                {
+                    "name": "Unknown tag (0x4017)",
+                    "size": 3
+                },
+                {
+                    "name": "AF Image Width",
+                    "size": 7
+                },
+                {
+                    "name": "Unknown tag (0xd212)",
+                    "size": 2
+                },
+                {
+                    "name": "My Colors",
+                    "size": 42
+                },
+                {
+                    "name": "Firmware Revision",
+                    "size": 42
+                },
+                {
+                    "name": "Valid AF Point Count",
+                    "size": 7
+                },
+                {
+                    "name": "Digital Zoom Ratio",
+                    "size": 246
+                },
+                {
+                    "name": "AF Image Height",
+                    "size": 7
+                },
+                {
+                    "name": "AF Area Height",
+                    "size": 7
+                },
+                {
+                    "name": "AF Point Count",
+                    "size": 7
+                },
+                {
+                    "name": "Max Aperture Value",
+                    "size": 397
+                },
+                {
+                    "name": "Unknown tag (0xd210)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0xd219)",
+                    "size": 2
+                },
+                {
+                    "name": "AF Area X Positions",
+                    "size": 7
+                },
+                {
+                    "name": "Unknown tag (0x0018)",
+                    "size": 43
+                },
+                {
+                    "name": "AF Area Y Positions",
+                    "size": 7
+                },
+                {
+                    "name": "Date Stamp Mode",
+                    "size": 43
+                },
+                {
+                    "name": "Image Number",
+                    "size": 43
+                },
+                {
+                    "name": "Unknown tag (0xd217)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0xd211)",
+                    "size": 2
+                },
+                {
+                    "name": "AF Area Width",
+                    "size": 7
+                },
+                {
+                    "name": "Unknown tag (0x0000)",
+                    "size": 116
+                },
+                {
+                    "name": "Related Image Height",
+                    "size": 59
+                },
+                {
+                    "name": "Unknown tag (0xd216)",
+                    "size": 2
+                },
+                {
+                    "name": "File Source",
+                    "size": 262
+                },
+                {
+                    "name": "Unknown tag (0xd20d)",
+                    "size": 2
+                },
+                {
+                    "name": "Primary AF Point 1",
+                    "size": 7
+                },
+                {
+                    "name": "Unknown tag (0xd215)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x0022)",
+                    "size": 42
+                },
+                {
+                    "name": "Unknown tag (0xd20e)",
+                    "size": 2
+                },
+                {
+                    "name": "Related Image Width",
+                    "size": 58
+                },
+                {
+                    "name": "Unknown tag (0x001f)",
+                    "size": 50
+                },
+                {
+                    "name": "Sensing Method",
+                    "size": 357
+                },
+                {
+                    "name": "Unknown tag (0xd214)",
+                    "size": 2
+                },
+                {
+                    "name": "AF Points in Focus Count",
+                    "size": 7
+                },
+                {
+                    "name": "Unknown tag (0xd21b)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0xd20f)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0xd213)",
+                    "size": 2
+                },
+                {
+                    "name": "Compressed Bits Per Pixel",
+                    "size": 216
+                },
+                {
+                    "name": "Unknown tag (0xd218)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0xd21a)",
+                    "size": 2
+                },
+                {
+                    "name": "Primary AF Point 2",
+                    "size": 2
+                },
+                {
+                    "name": "dc:creator",
+                    "size": 48
+                },
+                {
+                    "name": "Author",
+                    "size": 48
+                },
+                {
+                    "name": "Coded Character Set",
+                    "size": 202
+                },
+                {
+                    "name": "tiff:Software",
+                    "size": 707
+                },
+                {
+                    "name": "Categories",
+                    "size": 36
+                },
+                {
+                    "name": "meta:author",
+                    "size": 48
+                },
+                {
+                    "name": "Enveloped Record Version",
+                    "size": 6
+                },
+                {
+                    "name": "Image Description",
+                    "size": 142
+                },
+                {
+                    "name": "Unique Image ID",
+                    "size": 63
+                },
+                {
+                    "name": "creator",
+                    "size": 48
+                },
+                {
+                    "name": "Caption Digest",
+                    "size": 364
+                },
+                {
+                    "name": "Software",
+                    "size": 707
+                },
+                {
+                    "name": "By-line",
+                    "size": 26
+                },
+                {
+                    "name": "Unknown tag (0x002d)",
+                    "size": 35
+                },
+                {
+                    "name": "dc:description",
+                    "size": 153
+                },
+                {
+                    "name": "description",
+                    "size": 662
+                },
+                {
+                    "name": "Image Unique ID",
+                    "size": 36
+                },
+                {
+                    "name": "Application Record Version",
+                    "size": 252
+                },
+                {
+                    "name": "Unknown tag (0x0027)",
+                    "size": 40
+                },
+                {
+                    "name": "Unknown tag (0xc131)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x0033)",
+                    "size": 9
+                },
+                {
+                    "name": "Unknown tag (0x0032)",
+                    "size": 8
+                },
+                {
+                    "name": "Unknown tag (0x0031)",
+                    "size": 12
+                },
+                {
+                    "name": "Unknown tag (0x002f)",
+                    "size": 18
+                },
+                {
+                    "name": "Unknown tag (0x002e)",
+                    "size": 16
+                },
+                {
+                    "name": "Unknown tag (0x0037)",
+                    "size": 5
+                },
+                {
+                    "name": "Serial Number Format",
+                    "size": 4
+                },
+                {
+                    "name": "Camera Serial Number",
+                    "size": 24
+                },
+                {
+                    "name": "Face Detect Array 2",
+                    "size": 13
+                },
+                {
+                    "name": "Face Detect Array 1",
+                    "size": 13
+                },
+                {
+                    "name": "Super Macro",
+                    "size": 5
+                },
+                {
+                    "name": "Title",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x005b)",
+                    "size": 1
+                },
+                {
+                    "name": "Number of Detected Faces",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x0089)",
+                    "size": 1
+                },
+                {
+                    "name": "Lens Type",
+                    "size": 21
+                },
+                {
+                    "name": "White Balance (Blue)",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x0049)",
+                    "size": 1
+                },
+                {
+                    "name": "Program ISO",
+                    "size": 4
+                },
+                {
+                    "name": "Quality Mode",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x0079)",
+                    "size": 1
+                },
+                {
+                    "name": "Noise Reduction",
+                    "size": 39
+                },
+                {
+                    "name": "Unknown tag (0x005e)",
+                    "size": 3
+                },
+                {
+                    "name": "Film Mode",
+                    "size": 4
+                },
+                {
+                    "name": "Optical Zoom Mode",
+                    "size": 4
+                },
+                {
+                    "name": "Color Effect",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x0078)",
+                    "size": 1
+                },
+                {
+                    "name": "Camera Uptime",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x008d)",
+                    "size": 1
+                },
+                {
+                    "name": "Makernote Version",
+                    "size": 15
+                },
+                {
+                    "name": "Accessory Type",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x008b)",
+                    "size": 1
+                },
+                {
+                    "name": "Advanced Scene Mode",
+                    "size": 3
+                },
+                {
+                    "name": "Text Stamp 2",
+                    "size": 4
+                },
+                {
+                    "name": "Text Stamp 3",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x0077)",
+                    "size": 2
+                },
+                {
+                    "name": "Internal Serial Number",
+                    "size": 4
+                },
+                {
+                    "name": "Flash Fired",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x0050)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x008e)",
+                    "size": 1
+                },
+                {
+                    "name": "Af Point Position",
+                    "size": 3
+                },
+                {
+                    "name": "Rotation",
+                    "size": 4
+                },
+                {
+                    "name": "Print IM",
+                    "size": 65
+                },
+                {
+                    "name": "AF Assist Lamp",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x008c)",
+                    "size": 1
+                },
+                {
+                    "name": "Self Timer",
+                    "size": 5
+                },
+                {
+                    "name": "White Balance (Green)",
+                    "size": 4
+                },
+                {
+                    "name": "Recognized Face Flags",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x0076)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x8002)",
+                    "size": 4
+                },
+                {
+                    "name": "Contrast Mode",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x0060)",
+                    "size": 1
+                },
+                {
+                    "name": "Text Stamp",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x004b)",
+                    "size": 1
+                },
+                {
+                    "name": "White Balance Adjust (AB)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x007b)",
+                    "size": 1
+                },
+                {
+                    "name": "Focal Length 35",
+                    "size": 327
+                },
+                {
+                    "name": "White Balance Adjust (GM)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x005f)",
+                    "size": 1
+                },
+                {
+                    "name": "Scene Type",
+                    "size": 337
+                },
+                {
+                    "name": "Unknown tag (0x0075)",
+                    "size": 2
+                },
+                {
+                    "name": "Travel Day",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x0099)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x0045)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x8003)",
+                    "size": 4
+                },
+                {
+                    "name": "World Time Location",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x004c)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x0091)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x007a)",
+                    "size": 2
+                },
+                {
+                    "name": "Color Mode",
+                    "size": 34
+                },
+                {
+                    "name": "Text Stamp 1",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x008a)",
+                    "size": 1
+                },
+                {
+                    "name": "Easy Mode",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x0074)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x0044)",
+                    "size": 1
+                },
+                {
+                    "name": "White Balance (Red)",
+                    "size": 4
+                },
+                {
+                    "name": "Burst Mode",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x005a)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x0055)",
+                    "size": 1
+                },
+                {
+                    "name": "Conversion Lens",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x2003)",
+                    "size": 10
+                },
+                {
+                    "name": "Intelligent Resolution",
+                    "size": 2
+                },
+                {
+                    "name": "Audio",
+                    "size": 4
+                },
+                {
+                    "name": "Image Stabilization",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x0090)",
+                    "size": 1
+                },
+                {
+                    "name": "Record Mode",
+                    "size": 5
+                },
+                {
+                    "name": "Unknown tag (0x0038)",
+                    "size": 6
+                },
+                {
+                    "name": "Unknown tag (0x008f)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x0043)",
+                    "size": 1
+                },
+                {
+                    "name": "Flash Bias",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x004a)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown Data Dump",
+                    "size": 4
+                },
+                {
+                    "name": "Panasonic Title (2)",
+                    "size": 5
+                },
+                {
+                    "name": "Unknown tag (0x0073)",
+                    "size": 2
+                },
+                {
+                    "name": "Panasonic Title",
+                    "size": 5
+                },
+                {
+                    "name": "AF Area Mode",
+                    "size": 4
+                },
+                {
+                    "name": "Gain Control",
+                    "size": 119
+                },
+                {
+                    "name": "Unknown tag (0x0054)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x005c)",
+                    "size": 1
+                },
+                {
+                    "name": "Scene Mode",
+                    "size": 24
+                },
+                {
+                    "name": "Unknown tag (0x0072)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x0092)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x0048)",
+                    "size": 1
+                },
+                {
+                    "name": "Baby Name",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x004f)",
+                    "size": 3
+                },
+                {
+                    "name": "Bits Per Sample",
+                    "size": 87
+                },
+                {
+                    "name": "dc:subject",
+                    "size": 15
+                },
+                {
+                    "name": "Seed Number",
+                    "size": 206
+                },
+                {
+                    "name": "Print Flags Information",
+                    "size": 207
+                },
+                {
+                    "name": "Profile Description",
+                    "size": 419
+                },
+                {
+                    "name": "Lens Information",
+                    "size": 47
+                },
+                {
+                    "name": "Object Name",
+                    "size": 9
+                },
+                {
+                    "name": "Rendering Intent",
+                    "size": 61
+                },
+                {
+                    "name": "Green TRC",
+                    "size": 418
+                },
+                {
+                    "name": "YCbCr Coefficients",
+                    "size": 12
+                },
+                {
+                    "name": "Color space",
+                    "size": 419
+                },
+                {
+                    "name": "CFA Pattern",
+                    "size": 42
+                },
+                {
+                    "name": "Global Angle",
+                    "size": 206
+                },
+                {
+                    "name": "Red Colorant",
+                    "size": 418
+                },
+                {
+                    "name": "Province/State",
+                    "size": 3
+                },
+                {
+                    "name": "JPEG Quality",
+                    "size": 213
+                },
+                {
+                    "name": "Slices",
+                    "size": 203
+                },
+                {
+                    "name": "Profile Date/Time",
+                    "size": 419
+                },
+                {
+                    "name": "Photometric Interpretation",
+                    "size": 92
+                },
+                {
+                    "name": "Subject",
+                    "size": 24
+                },
+                {
+                    "name": "Color Transfer Functions",
+                    "size": 206
+                },
+                {
+                    "name": "Global Altitude",
+                    "size": 205
+                },
+                {
+                    "name": "Profile Connection Space",
+                    "size": 419
+                },
+                {
+                    "name": "Blue TRC",
+                    "size": 418
+                },
+                {
+                    "name": "Primary Platform",
+                    "size": 407
+                },
+                {
+                    "name": "Class",
+                    "size": 419
+                },
+                {
+                    "name": "Caption/Abstract",
+                    "size": 38
+                },
+                {
+                    "name": "Grid and Guides Information",
+                    "size": 206
+                },
+                {
+                    "name": "Resolution Info",
+                    "size": 229
+                },
+                {
+                    "name": "Keywords",
+                    "size": 17
+                },
+                {
+                    "name": "Caption Writer/Editor",
+                    "size": 3
+                },
+                {
+                    "name": "Signature",
+                    "size": 419
+                },
+                {
+                    "name": "Media Black Point",
+                    "size": 399
+                },
+                {
+                    "name": "title",
+                    "size": 619
+                },
+                {
+                    "name": "Date Created",
+                    "size": 97
+                },
+                {
+                    "name": "Country/Primary Location Name",
+                    "size": 3
+                },
+                {
+                    "name": "City",
+                    "size": 3
+                },
+                {
+                    "name": "By-line Title",
+                    "size": 3
+                },
+                {
+                    "name": "Color Halftoning Information",
+                    "size": 207
+                },
+                {
+                    "name": "Samples Per Pixel",
+                    "size": 84
+                },
+                {
+                    "name": "Pixel Aspect Ratio",
+                    "size": 170
+                },
+                {
+                    "name": "Serial Number",
+                    "size": 59
+                },
+                {
+                    "name": "Lens",
+                    "size": 76
+                },
+                {
+                    "name": "Time Created",
+                    "size": 95
+                },
+                {
+                    "name": "Print Flags",
+                    "size": 207
+                },
+                {
+                    "name": "URL List",
+                    "size": 205
+                },
+                {
+                    "name": "tiff:SamplesPerPixel",
+                    "size": 84
+                },
+                {
+                    "name": "Green Colorant",
+                    "size": 418
+                },
+                {
+                    "name": "CMM Type",
+                    "size": 408
+                },
+                {
+                    "name": "Subject Distance Range",
+                    "size": 106
+                },
+                {
+                    "name": "Profile Size",
+                    "size": 419
+                },
+                {
+                    "name": "Copyright Notice",
+                    "size": 36
+                },
+                {
+                    "name": "Red TRC",
+                    "size": 418
+                },
+                {
+                    "name": "Special Instructions",
+                    "size": 15
+                },
+                {
+                    "name": "meta:keyword",
+                    "size": 15
+                },
+                {
+                    "name": "Thumbnail Data",
+                    "size": 217
+                },
+                {
+                    "name": "Print Info 2",
+                    "size": 103
+                },
+                {
+                    "name": "dc:title",
+                    "size": 619
+                },
+                {
+                    "name": "Unknown tag (0x02dd)",
+                    "size": 2
+                },
+                {
+                    "name": "Tag Count",
+                    "size": 419
+                },
+                {
+                    "name": "Primary Chromaticities",
+                    "size": 13
+                },
+                {
+                    "name": "Print Scale",
+                    "size": 200
+                },
+                {
+                    "name": "Blue Colorant",
+                    "size": 418
+                },
+                {
+                    "name": "subject",
+                    "size": 15
+                },
+                {
+                    "name": "Media White Point",
+                    "size": 419
+                },
+                {
+                    "name": "Version Info",
+                    "size": 205
+                },
+                {
+                    "name": "XYZ values",
+                    "size": 419
+                },
+                {
+                    "name": "Print Style",
+                    "size": 103
+                },
+                {
+                    "name": "Copyright Flag",
+                    "size": 103
+                },
+                {
+                    "name": "Gamma",
+                    "size": 9
+                },
+                {
+                    "name": "Credit",
+                    "size": 5
+                },
+                {
+                    "name": "Source",
+                    "size": 5
+                },
+                {
+                    "name": "White Point",
+                    "size": 13
+                },
+                {
+                    "name": "Device manufacturer",
+                    "size": 380
+                },
+                {
+                    "name": "Luminance",
+                    "size": 347
+                },
+                {
+                    "name": "Supplemental Category(s)",
+                    "size": 2
+                },
+                {
+                    "name": "Viewing Conditions Description",
+                    "size": 347
+                },
+                {
+                    "name": "Device Model Description",
+                    "size": 348
+                },
+                {
+                    "name": "Viewing Conditions",
+                    "size": 338
+                },
+                {
+                    "name": "Measurement",
+                    "size": 347
+                },
+                {
+                    "name": "Original Transmission Reference",
+                    "size": 16
+                },
+                {
+                    "name": "Headline",
+                    "size": 2
+                },
+                {
+                    "name": "Device model",
+                    "size": 340
+                },
+                {
+                    "name": "Device Mfg Description",
+                    "size": 339
+                },
+                {
+                    "name": "Technology",
+                    "size": 348
+                },
+                {
+                    "name": "AF Focus Position",
+                    "size": 27
+                },
+                {
+                    "name": "Exposure Difference",
+                    "size": 20
+                },
+                {
+                    "name": "Quality & File Format",
+                    "size": 33
+                },
+                {
+                    "name": "Flash Used",
+                    "size": 20
+                },
+                {
+                    "name": "High ISO Noise Reduction",
+                    "size": 30
+                },
+                {
+                    "name": "Active D-Lighting",
+                    "size": 19
+                },
+                {
+                    "name": "Camera Hue Adjustment",
+                    "size": 14
+                },
+                {
+                    "name": "Tone Compensation",
+                    "size": 19
+                },
+                {
+                    "name": "Shooting Mode",
+                    "size": 20
+                },
+                {
+                    "name": "Multi Exposure",
+                    "size": 18
+                },
+                {
+                    "name": "Auto Flash Compensation",
+                    "size": 20
+                },
+                {
+                    "name": "Retouch History",
+                    "size": 31
+                },
+                {
+                    "name": "Unknown tag (0xea1d)",
+                    "size": 95
+                },
+                {
+                    "name": "Unknown 27",
+                    "size": 20
+                },
+                {
+                    "name": "Unknown 20",
+                    "size": 20
+                },
+                {
+                    "name": "Flash Info",
+                    "size": 29
+                },
+                {
+                    "name": "VR Info",
+                    "size": 18
+                },
+                {
+                    "name": "Sensor Pixel Size",
+                    "size": 14
+                },
+                {
+                    "name": "Auto Flash Mode",
+                    "size": 20
+                },
+                {
+                    "name": "Flash Sync Mode",
+                    "size": 33
+                },
+                {
+                    "name": "Image Optimisation",
+                    "size": 16
+                },
+                {
+                    "name": "Color Balance",
+                    "size": 23
+                },
+                {
+                    "name": "AF Type",
+                    "size": 33
+                },
+                {
+                    "name": "ISO",
+                    "size": 33
+                },
+                {
+                    "name": "Lens Stops",
+                    "size": 20
+                },
+                {
+                    "name": "White Balance Fine",
+                    "size": 31
+                },
+                {
+                    "name": "Padding",
+                    "size": 88
+                },
+                {
+                    "name": "Image Data Size",
+                    "size": 20
+                },
+                {
+                    "name": "Digital Vari Program",
+                    "size": 20
+                },
+                {
+                    "name": "White Balance RB Coefficients",
+                    "size": 19
+                },
+                {
+                    "name": "World Time",
+                    "size": 13
+                },
+                {
+                    "name": "Unknown 11",
+                    "size": 25
+                },
+                {
+                    "name": "Preview IFD",
+                    "size": 33
+                },
+                {
+                    "name": "Program Shift",
+                    "size": 20
+                },
+                {
+                    "name": "File Info",
+                    "size": 13
+                },
+                {
+                    "name": "Crop High Speed",
+                    "size": 18
+                },
+                {
+                    "name": "ISO Info",
+                    "size": 14
+                },
+                {
+                    "name": "Light source",
+                    "size": 14
+                },
+                {
+                    "name": "Unknown 49",
+                    "size": 14
+                },
+                {
+                    "name": "Colour Mode",
+                    "size": 15
+                },
+                {
+                    "name": "Shot Info",
+                    "size": 40
+                },
+                {
+                    "name": "Lens Data",
+                    "size": 20
+                },
+                {
+                    "name": "Sharpening",
+                    "size": 27
+                },
+                {
+                    "name": "Image Boundary",
+                    "size": 20
+                },
+                {
+                    "name": "Exposure Sequence Number",
+                    "size": 20
+                },
+                {
+                    "name": "Unknown tag (0x9402)",
+                    "size": 7
+                },
+                {
+                    "name": "Unknown tag (0xb046)",
+                    "size": 10
+                },
+                {
+                    "name": "Lateral Chromatic Aberration",
+                    "size": 4
+                },
+                {
+                    "name": "White Balance Fine Tune Value",
+                    "size": 4
+                },
+                {
+                    "name": "Preview Image Size",
+                    "size": 6
+                },
+                {
+                    "name": "Dynamic Range Optimizer",
+                    "size": 9
+                },
+                {
+                    "name": "Multi Frame Noise Reduction",
+                    "size": 6
+                },
+                {
+                    "name": "Sony Model ID",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x940a)",
+                    "size": 7
+                },
+                {
+                    "name": "Unknown tag (0x9405)",
+                    "size": 7
+                },
+                {
+                    "name": "Anti Blur",
+                    "size": 10
+                },
+                {
+                    "name": "Unknown tag (0x200d)",
+                    "size": 7
+                },
+                {
+                    "name": "Unknown tag (0x940f)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x200c)",
+                    "size": 7
+                },
+                {
+                    "name": "HDR",
+                    "size": 9
+                },
+                {
+                    "name": "Unknown tag (0xa100)",
+                    "size": 10
+                },
+                {
+                    "name": "Unknown tag (0x9404)",
+                    "size": 7
+                },
+                {
+                    "name": "Unknown tag (0xb04d)",
+                    "size": 10
+                },
+                {
+                    "name": "Brightness",
+                    "size": 7
+                },
+                {
+                    "name": "Unknown tag (0x2000)",
+                    "size": 10
+                },
+                {
+                    "name": "Unknown tag (0x940c)",
+                    "size": 7
+                },
+                {
+                    "name": "Unknown tag (0x9407)",
+                    "size": 7
+                },
+                {
+                    "name": "Flash Level",
+                    "size": 10
+                },
+                {
+                    "name": "Unknown tag (0x9406)",
+                    "size": 4
+                },
+                {
+                    "name": "Lens Spec",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0xb045)",
+                    "size": 10
+                },
+                {
+                    "name": "Long Exposure Noise Reduction",
+                    "size": 10
+                },
+                {
+                    "name": "Unknown tag (0x9050)",
+                    "size": 4
+                },
+                {
+                    "name": "Full Image Size",
+                    "size": 4
+                },
+                {
+                    "name": "Color Compensation Filter",
+                    "size": 5
+                },
+                {
+                    "name": "White Balance 2",
+                    "size": 9
+                },
+                {
+                    "name": "Unknown tag (0x9401)",
+                    "size": 7
+                },
+                {
+                    "name": "WB Shift Amber/Magenta",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0xb053)",
+                    "size": 9
+                },
+                {
+                    "name": "Unknown tag (0x9409)",
+                    "size": 7
+                },
+                {
+                    "name": "Zone Matching",
+                    "size": 7
+                },
+                {
+                    "name": "Unknown tag (0x940b)",
+                    "size": 7
+                },
+                {
+                    "name": "Soft Skin Effect",
+                    "size": 6
+                },
+                {
+                    "name": "Distortion Correction",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x2015)",
+                    "size": 4
+                },
+                {
+                    "name": "Panorama",
+                    "size": 7
+                },
+                {
+                    "name": "Unknown tag (0x9400)",
+                    "size": 7
+                },
+                {
+                    "name": "File Format",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0xb04c)",
+                    "size": 10
+                },
+                {
+                    "name": "Color Mode Setting",
+                    "size": 10
+                },
+                {
+                    "name": "Unknown tag (0x9408)",
+                    "size": 7
+                },
+                {
+                    "name": "Vignetting Correction",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x9403)",
+                    "size": 7
+                },
+                {
+                    "name": "Intelligent Auto",
+                    "size": 9
+                },
+                {
+                    "name": "Release Mode",
+                    "size": 10
+                },
+                {
+                    "name": "Teleconverter Model",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0xb051)",
+                    "size": 9
+                },
+                {
+                    "name": "Color Temperature",
+                    "size": 5
+                },
+                {
+                    "name": "Picture Effect",
+                    "size": 6
+                },
+                {
+                    "name": "Brightness Value",
+                    "size": 261
+                },
+                {
+                    "name": "Image Stabilisation",
+                    "size": 18
+                },
+                {
+                    "name": "Lens ID",
+                    "size": 3
+                },
+                {
+                    "name": "Image Quality",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x940d)",
+                    "size": 7
+                },
+                {
+                    "name": "GPS Track",
+                    "size": 2
+                },
+                {
+                    "name": "GPS Date Stamp",
+                    "size": 61
+                },
+                {
+                    "name": "Digital Time Created",
+                    "size": 32
+                },
+                {
+                    "name": "Print Info",
+                    "size": 13
+                },
+                {
+                    "name": "GPS Speed",
+                    "size": 47
+                },
+                {
+                    "name": "GPS Measure Mode",
+                    "size": 2
+                },
+                {
+                    "name": "GPS Status",
+                    "size": 4
+                },
+                {
+                    "name": "GPS Longitude",
+                    "size": 70
+                },
+                {
+                    "name": "GPS Track Ref",
+                    "size": 2
+                },
+                {
+                    "name": "GPS Time-Stamp",
+                    "size": 66
+                },
+                {
+                    "name": "GPS Latitude Ref",
+                    "size": 70
+                },
+                {
+                    "name": "GPS Speed Ref",
+                    "size": 47
+                },
+                {
+                    "name": "GPS Latitude",
+                    "size": 70
+                },
+                {
+                    "name": "GPS Longitude Ref",
+                    "size": 70
+                },
+                {
+                    "name": "GPS Map Datum",
+                    "size": 4
+                },
+                {
+                    "name": "GPS Altitude",
+                    "size": 73
+                },
+                {
+                    "name": "GPS Differential",
+                    "size": 1
+                },
+                {
+                    "name": "Digital Date Created",
+                    "size": 33
+                },
+                {
+                    "name": "geo:long",
+                    "size": 70
+                },
+                {
+                    "name": "GPS Altitude Ref",
+                    "size": 75
+                },
+                {
+                    "name": "geo:lat",
+                    "size": 70
+                },
+                {
+                    "name": "Unknown tag (0x007e)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x007d)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x0094)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x007c)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x0097)",
+                    "size": 1
+                },
+                {
+                    "name": "Transform",
+                    "size": 2
+                },
+                {
+                    "name": "Intelligent Exposure",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x0098)",
+                    "size": 1
+                },
+                {
+                    "name": "Flash Warning",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x0093)",
+                    "size": 1
+                },
+                {
+                    "name": "Transform 1",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x0057)",
+                    "size": 2
+                },
+                {
+                    "name": "White Balance Bias",
+                    "size": 6
+                },
+                {
+                    "name": "Subject Distance",
+                    "size": 31
+                },
+                {
+                    "name": "DCT Encode Version",
+                    "size": 390
+                },
+                {
+                    "name": "Flags 0",
+                    "size": 390
+                },
+                {
+                    "name": "Flags 1",
+                    "size": 390
+                },
+                {
+                    "name": "Color Transform",
+                    "size": 390
+                },
+                {
+                    "name": "Unknown tag (0x2010)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x9411)",
+                    "size": 1
+                },
+                {
+                    "name": "AF Mode",
+                    "size": 7
+                },
+                {
+                    "name": "AF Illuminator",
+                    "size": 7
+                },
+                {
+                    "name": "Auto Portrait Framing",
+                    "size": 1
+                },
+                {
+                    "name": "Macro",
+                    "size": 25
+                },
+                {
+                    "name": "Unknown tag (0x2058)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x301f)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x3012)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2045)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x3023)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2051)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x3013)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2037)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2046)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x3022)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x203a)",
+                    "size": 1
+                },
+                {
+                    "name": "Enhancement",
+                    "size": 1
+                },
+                {
+                    "name": "BestShot Mode",
+                    "size": 1
+                },
+                {
+                    "name": "Time Zone",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2048)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2036)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2047)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2057)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x3025)",
+                    "size": 1
+                },
+                {
+                    "name": "CCD ISO Sensitivity",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2049)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2031)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x301a)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x203c)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2056)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2039)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2001)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x3024)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x3009)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x301b)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x203b)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x205a)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2055)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2002)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2038)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2014)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2041)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x3027)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x3018)",
+                    "size": 1
+                },
+                {
+                    "name": "Filter",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x3008)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2033)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2054)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2032)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2023)",
+                    "size": 3
+                },
+                {
+                    "name": "Object Distance",
+                    "size": 1
+                },
+                {
+                    "name": "Thumbnail Dimensions",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2013)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2042)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x3026)",
+                    "size": 1
+                },
+                {
+                    "name": "Thumbnail Size",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x3019)",
+                    "size": 1
+                },
+                {
+                    "name": "Flash Distance",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x301d)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x204a)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2043)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x3021)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2053)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2004)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2059)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x3028)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2021)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x301c)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2035)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x301e)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2044)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x3011)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x3020)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x3005)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2052)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2005)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x2018)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x201a)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x201d)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x2017)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x201c)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x9410)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x2022)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x2020)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x940e)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x201f)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x2019)",
+                    "size": 2
+                },
+                {
+                    "name": "Compression",
+                    "size": 13
+                },
+                {
+                    "name": "Planar Configuration",
+                    "size": 12
+                },
+                {
+                    "name": "Clipping Path Name",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x0401)",
+                    "size": 5
+                },
+                {
+                    "name": "Background Color",
+                    "size": 24
+                },
+                {
+                    "name": "Unknown tag (0x07d0)",
+                    "size": 10
+                },
+                {
+                    "name": "Layers Group Information",
+                    "size": 53
+                },
+                {
+                    "name": "Layer Groups Enabled ID",
+                    "size": 48
+                },
+                {
+                    "name": "Layer Selection IDs",
+                    "size": 48
+                },
+                {
+                    "name": "Layer State Information",
+                    "size": 53
+                },
+                {
+                    "name": "Firmware",
+                    "size": 30
+                },
+                {
+                    "name": "Plug-in 1 Data",
+                    "size": 25
+                },
+                {
+                    "name": "Plug-in 2 Data",
+                    "size": 25
+                },
+                {
+                    "name": "Image Adjustment",
+                    "size": 13
+                },
+                {
+                    "name": "Unknown tag (0x0036)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x000a)",
+                    "size": 13
+                },
+                {
+                    "name": "Scene Assist",
+                    "size": 13
+                },
+                {
+                    "name": "Unknown 50",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown 41",
+                    "size": 13
+                },
+                {
+                    "name": "GPS Satellites",
+                    "size": 1
+                },
+                {
+                    "name": "Manual Focus Distance",
+                    "size": 12
+                },
+                {
+                    "name": "Adapter",
+                    "size": 7
+                },
+                {
+                    "name": "Unknown 36",
+                    "size": 11
+                },
+                {
+                    "name": "Unknown 32",
+                    "size": 4
+                },
+                {
+                    "name": "ISO Mode",
+                    "size": 13
+                },
+                {
+                    "name": "Unknown 12",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown 10",
+                    "size": 13
+                },
+                {
+                    "name": "Unknown 45",
+                    "size": 8
+                },
+                {
+                    "name": "Unknown 42",
+                    "size": 15
+                },
+                {
+                    "name": "Unknown 43",
+                    "size": 11
+                },
+                {
+                    "name": "GPS Img Direction Ref",
+                    "size": 49
+                },
+                {
+                    "name": "Unknown tag (0x003a)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown 37",
+                    "size": 5
+                },
+                {
+                    "name": "Unknown 31",
+                    "size": 12
+                },
+                {
+                    "name": "GPS Img Direction",
+                    "size": 49
+                },
+                {
+                    "name": "AE Bracket Compensation",
+                    "size": 9
+                },
+                {
+                    "name": "Unknown tag (0x00bf)",
+                    "size": 2
+                },
+                {
+                    "name": "Exposure Tuning",
+                    "size": 6
+                },
+                {
+                    "name": "AF Info 2",
+                    "size": 6
+                },
+                {
+                    "name": "Picture Control",
+                    "size": 6
+                },
+                {
+                    "name": "Flash Bracket Compensation",
+                    "size": 7
+                },
+                {
+                    "name": "Unknown 40",
+                    "size": 6
+                },
+                {
+                    "name": "Unknown tag (0x003b)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x0039)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x00c0)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown 44",
+                    "size": 9
+                },
+                {
+                    "name": "Windows XP Comment",
+                    "size": 5
+                },
+                {
+                    "name": "Unknown tag (0x9008)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x9001)",
+                    "size": 4
+                },
+                {
+                    "name": "Apple Multi-language Profile Name",
+                    "size": 15
+                },
+                {
+                    "name": "Unknown tag (0x9003)",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0xa200)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0xa101)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0xa001)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x9002)",
+                    "size": 4
+                },
+                {
+                    "name": "Chromatic Adaptation",
+                    "size": 27
+                },
+                {
+                    "name": "Multi Burst Image Width",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xa000)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x900a)",
+                    "size": 3
+                },
+                {
+                    "name": "Multi Burst Image Height",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x9005)",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x9004)",
+                    "size": 4
+                },
+                {
+                    "name": "Multi Burst Mode",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x900c)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x9007)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x9009)",
+                    "size": 8
+                },
+                {
+                    "name": "Unknown tag (0x900b)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x9006)",
+                    "size": 4
+                },
+                {
+                    "name": "Flash Strength",
+                    "size": 11
+                },
+                {
+                    "name": "Dynamic Range Setting",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x1032)",
+                    "size": 11
+                },
+                {
+                    "name": "Unknown tag (0x1040)",
+                    "size": 2
+                },
+                {
+                    "name": "Focus Warning",
+                    "size": 11
+                },
+                {
+                    "name": "Dynamic Range",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x1422)",
+                    "size": 5
+                },
+                {
+                    "name": "Focus Pixel",
+                    "size": 11
+                },
+                {
+                    "name": "Color Saturation",
+                    "size": 10
+                },
+                {
+                    "name": "Unknown tag (0x1408)",
+                    "size": 9
+                },
+                {
+                    "name": "White Balance Fine Tune",
+                    "size": 2
+                },
+                {
+                    "name": "Faces Detected",
+                    "size": 9
+                },
+                {
+                    "name": "Unknown tag (0x1022)",
+                    "size": 11
+                },
+                {
+                    "name": "GE Image Size",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x1303)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x1409)",
+                    "size": 9
+                },
+                {
+                    "name": "Unknown tag (0x1436)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x4200)",
+                    "size": 9
+                },
+                {
+                    "name": "Blur Warning",
+                    "size": 11
+                },
+                {
+                    "name": "Lens Make",
+                    "size": 123
+                },
+                {
+                    "name": "Slow Sync",
+                    "size": 11
+                },
+                {
+                    "name": "Unknown tag (0x1305)",
+                    "size": 3
+                },
+                {
+                    "name": "Maximum Focal Length",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x1041)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x1430)",
+                    "size": 8
+                },
+                {
+                    "name": "Maximum Aperture at Minimum Focal Length",
+                    "size": 2
+                },
+                {
+                    "name": "Auto Bracketing",
+                    "size": 11
+                },
+                {
+                    "name": "Unknown tag (0x1200)",
+                    "size": 11
+                },
+                {
+                    "name": "Development Dynamic Range",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x1026)",
+                    "size": 8
+                },
+                {
+                    "name": "Minimum Focal Length",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x1424)",
+                    "size": 3
+                },
+                {
+                    "name": "Picture Mode",
+                    "size": 11
+                },
+                {
+                    "name": "Maximum Aperture at Maximum Focal Length",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x140a)",
+                    "size": 9
+                },
+                {
+                    "name": "Unknown tag (0x1431)",
+                    "size": 8
+                },
+                {
+                    "name": "AE Warning",
+                    "size": 11
+                },
+                {
+                    "name": "XML Data",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x1433)",
+                    "size": 1
+                },
+                {
+                    "name": "EXR Mode",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x1434)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x1043)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x1042)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x1437)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x1044)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x1028)",
+                    "size": 2
+                },
+                {
+                    "name": "EXR Auto",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x1435)",
+                    "size": 1
+                },
+                {
+                    "name": "Auto Dynamic Range",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x1432)",
+                    "size": 2
+                },
+                {
+                    "name": "Raw Development",
+                    "size": 2
+                },
+                {
+                    "name": "Camera Settings",
+                    "size": 2
+                },
+                {
+                    "name": "Colour Matrix",
+                    "size": 1
+                },
+                {
+                    "name": "DigiZoom Ratio",
+                    "size": 7
+                },
+                {
+                    "name": "Image Processing",
+                    "size": 2
+                },
+                {
+                    "name": "Sharpness Factor",
+                    "size": 1
+                },
+                {
+                    "name": "Equipment",
+                    "size": 2
+                },
+                {
+                    "name": "Blue Bias",
+                    "size": 1
+                },
+                {
+                    "name": "Final Width",
+                    "size": 1
+                },
+                {
+                    "name": "Final Height",
+                    "size": 1
+                },
+                {
+                    "name": "BW Mode",
+                    "size": 7
+                },
+                {
+                    "name": "Coring Filter",
+                    "size": 1
+                },
+                {
+                    "name": "Red Bias",
+                    "size": 1
+                },
+                {
+                    "name": "Special Mode",
+                    "size": 7
+                },
+                {
+                    "name": "Colour Control",
+                    "size": 1
+                },
+                {
+                    "name": "Valid Bits",
+                    "size": 1
+                },
+                {
+                    "name": "Focal Plane Diagonal",
+                    "size": 7
+                },
+                {
+                    "name": "Camera Id",
+                    "size": 7
+                },
+                {
+                    "name": "Lens Distortion Parameters",
+                    "size": 7
+                },
+                {
+                    "name": "Subject Location",
+                    "size": 133
+                },
+                {
+                    "name": "GPS Dest Bearing",
+                    "size": 41
+                },
+                {
+                    "name": "Makernote",
+                    "size": 210
+                },
+                {
+                    "name": "GPS Dest Bearing Ref",
+                    "size": 41
+                },
+                {
+                    "name": "Data Dump",
+                    "size": 13
+                },
+                {
+                    "name": "Unknown 39",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown 35",
+                    "size": 7
+                },
+                {
+                    "name": "Unknown 48",
+                    "size": 8
+                },
+                {
+                    "name": "Unknown tag (0x0015)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0xa700)",
+                    "size": 2
+                },
+                {
+                    "name": "w:comments",
+                    "size": 9812
+                },
+                {
+                    "name": "Comments",
+                    "size": 9812
+                },
+                {
+                    "name": "comment",
+                    "size": 9812
+                },
+                {
+                    "name": "JPEG Comment",
+                    "size": 9741
+                },
+                {
+                    "name": "Host Computer",
+                    "size": 17
+                },
+                {
+                    "name": "Unknown tag (0x4008)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x4006)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0xf010)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x4007)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x4004)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x4005)",
+                    "size": 1
+                },
+                {
+                    "name": "Windows XP Title",
+                    "size": 8
+                },
+                {
+                    "name": "FinePix Color Setting",
+                    "size": 7
+                },
+                {
+                    "name": "Windows XP Keywords",
+                    "size": 24
+                },
+                {
+                    "name": "ICC Untagged Profile",
+                    "size": 49
+                },
+                {
+                    "name": "Exposure Index",
+                    "size": 19
+                },
+                {
+                    "name": "Unknown tag (0xf000)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0xf001)",
+                    "size": 1
+                },
+                {
+                    "name": "Reference Black/White",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x5012)",
+                    "size": 5
+                },
+                {
+                    "name": "Related Sound File",
+                    "size": 5
+                },
+                {
+                    "name": "Unknown tag (0x02e6)",
+                    "size": 2
+                },
+                {
+                    "name": "Layer Comps",
+                    "size": 1
+                },
+                {
+                    "name": "Label",
+                    "size": 1
+                },
+                {
+                    "name": "Mac Print Info",
+                    "size": 4
+                },
+                {
+                    "name": "Plug-in 3 Data",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x6e64696e)",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x6d6d6f64)",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x61617267)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x76636774)",
+                    "size": 4
+                },
+                {
+                    "name": "Unknown tag (0x61616267)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x61616767)",
+                    "size": 3
+                },
+                {
+                    "name": "GPS Processing Method",
+                    "size": 4
+                },
+                {
+                    "name": "Focus Info",
+                    "size": 1
+                },
+                {
+                    "name": "Device Setting Description",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x07d1)",
+                    "size": 2
+                },
+                {
+                    "name": "White Board",
+                    "size": 2
+                },
+                {
+                    "name": "Pre Capture Frames",
+                    "size": 2
+                },
+                {
+                    "name": "One Touch WB",
+                    "size": 2
+                },
+                {
+                    "name": "White Balance Bracket",
+                    "size": 2
+                },
+                {
+                    "name": "Pict Info",
+                    "size": 5
+                },
+                {
+                    "name": "Windows XP Subject",
+                    "size": 7
+                },
+                {
+                    "name": "Unknown tag (0x4749)",
+                    "size": 5
+                },
+                {
+                    "name": "Unknown tag (0x07d2)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x07d3)",
+                    "size": 1
+                },
+                {
+                    "name": "Windows XP Author",
+                    "size": 9
+                },
+                {
+                    "name": "Rows Per Strip",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x8649)",
+                    "size": 1
+                },
+                {
+                    "name": "Strip Offsets",
+                    "size": 1
+                },
+                {
+                    "name": "New Subfile Type",
+                    "size": 1
+                },
+                {
+                    "name": "Strip Byte Counts",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x02bc)",
+                    "size": 1
+                },
+                {
+                    "name": "GPS DOP",
+                    "size": 1
+                },
+                {
+                    "name": "Inter Color Profile",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x75636d49)",
+                    "size": 1
+                },
+                {
+                    "name": "URL",
+                    "size": 6
+                },
+                {
+                    "name": "Unknown tag (0x0201)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x0202)",
+                    "size": 2
+                },
+                {
+                    "name": "Device attributes",
+                    "size": 11
+                },
+                {
+                    "name": "Unknown tag (0x5110)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x5112)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x5111)",
+                    "size": 3
+                },
+                {
+                    "name": "Unknown tag (0x0302)",
+                    "size": 1
+                },
+                {
+                    "name": "Chromaticity",
+                    "size": 1
+                },
+                {
+                    "name": "pHYs",
+                    "size": 856
+                },
+                {
+                    "name": "Text TextEntry",
+                    "size": 1652
+                },
+                {
+                    "name": "height",
+                    "size": 5059
+                },
+                {
+                    "name": "Data PlanarConfiguration",
+                    "size": 3371
+                },
+                {
+                    "name": "Chroma Palette PaletteEntry",
+                    "size": 316
+                },
+                {
+                    "name": "width",
+                    "size": 5059
+                },
+                {
+                    "name": "Compression Lossless",
+                    "size": 5056
+                },
+                {
+                    "name": "PLTE PLTEEntry",
+                    "size": 278
+                },
+                {
+                    "name": "Document ImageModificationTime",
+                    "size": 108
+                },
+                {
+                    "name": "Compression NumProgressiveScans",
+                    "size": 5056
+                },
+                {
+                    "name": "Transparency Alpha",
+                    "size": 3371
+                },
+                {
+                    "name": "Chroma ColorSpaceType",
+                    "size": 5056
+                },
+                {
+                    "name": "tEXt tEXtEntry",
+                    "size": 1430
+                },
+                {
+                    "name": "Chroma Gamma",
+                    "size": 520
+                },
+                {
+                    "name": "tRNS tRNS_Palette tRNS_PaletteEntry",
+                    "size": 160
+                },
+                {
+                    "name": "tIME",
+                    "size": 108
+                },
+                {
+                    "name": "Dimension HorizontalPixelSize",
+                    "size": 785
+                },
+                {
+                    "name": "Compression CompressionTypeName",
+                    "size": 5059
+                },
+                {
+                    "name": "Data BitsPerSample",
+                    "size": 3374
+                },
+                {
+                    "name": "IHDR",
+                    "size": 3371
+                },
+                {
+                    "name": "Data SampleFormat",
+                    "size": 5056
+                },
+                {
+                    "name": "Chroma BlackIsZero",
+                    "size": 5056
+                },
+                {
+                    "name": "Chroma NumChannels",
+                    "size": 5056
+                },
+                {
+                    "name": "Dimension ImageOrientation",
+                    "size": 5056
+                },
+                {
+                    "name": "sRGB",
+                    "size": 353
+                },
+                {
+                    "name": "gAMA",
+                    "size": 520
+                },
+                {
+                    "name": "Dimension VerticalPixelSize",
+                    "size": 785
+                },
+                {
+                    "name": "Dimension PixelAspectRatio",
+                    "size": 3371
+                },
+                {
+                    "name": "bKGD bKGD_Palette",
+                    "size": 23
+                },
+                {
+                    "name": "Chroma BackgroundIndex",
+                    "size": 23
+                },
+                {
+                    "name": "cHRM",
+                    "size": 546
+                },
+                {
+                    "name": "iTXt iTXtEntry",
+                    "size": 927
+                },
+                {
+                    "name": "Data SignificantBitsPerSample",
+                    "size": 126
+                },
+                {
+                    "name": "sBIT sBIT_Palette",
+                    "size": 14
+                },
+                {
+                    "name": "sBIT sBIT_RGBAlpha",
+                    "size": 104
+                },
+                {
+                    "name": "UnknownChunks UnknownChunk",
+                    "size": 76
+                },
+                {
+                    "name": "bKGD bKGD_RGB",
+                    "size": 139
+                },
+                {
+                    "name": "Chroma BackgroundColor",
+                    "size": 142
+                },
+                {
+                    "name": "Unknown tag (0x5102)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x5100)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x5101)",
+                    "size": 2
+                },
+                {
+                    "name": "Unknown tag (0x5103)",
+                    "size": 2
+                },
+                {
+                    "name": "iCCP",
+                    "size": 305
+                },
+                {
+                    "name": "CommentExtensions CommentExtension",
+                    "size": 71
+                },
+                {
+                    "name": "LocalColorTable",
+                    "size": 35
+                },
+                {
+                    "name": "Dimension HorizontalPixelOffset",
+                    "size": 1685
+                },
+                {
+                    "name": "LocalColorTable ColorTableEntry",
+                    "size": 35
+                },
+                {
+                    "name": "ImageDescriptor",
+                    "size": 1685
+                },
+                {
+                    "name": "Dimension VerticalPixelOffset",
+                    "size": 1685
+                },
+                {
+                    "name": "ApplicationExtensions ApplicationExtension",
+                    "size": 376
+                },
+                {
+                    "name": "GraphicControlExtension",
+                    "size": 1685
+                },
+                {
+                    "name": "Transparency TransparentIndex",
+                    "size": 778
+                },
+                {
+                    "name": "bKGD bKGD_Grayscale",
+                    "size": 3
+                },
+                {
+                    "name": "zTXt zTXtEntry",
+                    "size": 7
+                },
+                {
+                    "name": "Unknown tag (0x0303)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x0301)",
+                    "size": 1
+                },
+                {
+                    "name": "sBIT sBIT_RGB",
+                    "size": 8
+                },
+                {
+                    "name": "Transparency TransparentColor",
+                    "size": 1
+                },
+                {
+                    "name": "tRNS tRNS_Grayscale",
+                    "size": 1
+                },
+                {
+                    "name": "Chroma Palette",
+                    "size": 3
+                },
+                {
+                    "name": "generator",
+                    "size": 16
+                },
+                {
+                    "name": "robots",
+                    "size": 3
+                },
+                {
+                    "name": "Content-Type-Hint",
+                    "size": 5
+                },
+                {
+                    "name": "keywords",
+                    "size": 3
+                },
+                {
+                    "name": "Content-Encoding",
+                    "size": 591
+                },
+                {
+                    "name": "Pragma",
+                    "size": 2
+                },
+                {
+                    "name": "Generator",
+                    "size": 2
+                },
+                {
+                    "name": "Cache-control",
+                    "size": 2
+                },
+                {
+                    "name": "viewport",
+                    "size": 189
+                },
+                {
+                    "name": "author",
+                    "size": 183
+                },
+                {
+                    "name": "X-UA-Compatible",
+                    "size": 183
+                },
+                {
+                    "name": "referrer",
+                    "size": 6
+                },
+                {
+                    "name": "google-site-verification",
+                    "size": 6
+                },
+                {
+                    "name": "ResourceLoaderDynamicStyles",
+                    "size": 7
+                }
+            ],
+            "name": "cluster1"
+        }
+    ],
+    "name": "clusters"
+}

@@ -1,0 +1,10 @@
+image/jpeg
+image/jpg
+image/gif
+image/png
+image/tff
+image/tiff
+image/svg+xml
+image/bmp
+image/vnd.microsoft-icon
+image/ico
